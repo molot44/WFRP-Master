@@ -1,0 +1,151 @@
+{
+    "human_attack": [
+        {
+            "description": "Przeciwnik markuje lekki cios z boku, jakby chciał zbadać twoją reakcję, ale w mgnieniu oka przechodzi w pełny zamach. Na jego twarzy maluje się satysfakcja. 'Szybciej, bo ziewnę!' – rzuca drwiąco, wyprowadzając kolejne uderzenie, które niesie za sobą zarówno siłę, jak i niebezpieczny element zaskoczenia."
+        },
+        {
+            "description": "Przeciwnik lekko unosi broń, udając zmęczenie, lecz w jednej chwili jego ruchy stają się szybkie i precyzyjne. 'Naprawdę myślisz, że wygrasz?' – rzuca z wyraźnym szyderstwem w głosie. Wykonuje szybki krok naprzód, wyprowadzając zaskakujący cios, który prawie przeszywa powietrze. Jego oczy błyszczą triumfem."
+        },
+        {
+            "description": "Przeciwnik stąpa ostrożnie, jakby czekał na odpowiedni moment, by uderzyć. Gdy tylko wykonujesz ruch, rzuca się do ataku, wyprowadzając dynamiczne uderzenie z pełną siłą. 'Powoli zaczynam się nudzić!' – krzyczy, uśmiechając się złośliwie. Każdy jego krok zdradza pewność siebie i doświadczenie."
+        },
+        {
+            "description": "Przeciwnik krąży wokół ciebie, jakby oceniał twoje możliwości. Nagle wyprowadza błyskawiczne uderzenie, które zmusza cię do defensywy. 'Nieźle, ale to dopiero początek!' – rzuca, drwiąc z twojej postawy. W jego ruchach widać precyzję i instynkt, a każde kolejne uderzenie wydaje się bardziej nieprzewidywalne."
+        },
+        {
+            "description": "Przeciwnik wykonuje pozornie chaotyczne ruchy, jakby nie mógł się zdecydować na kierunek ataku. Nagle, zupełnie niespodziewanie, wyprowadza szybki cios. 'Zaskoczony? To dopiero początek!' – mówi z triumfem w głosie. Jego ruchy są płynne, a w oczach widać błysk pewności siebie, która tylko napędza jego działania."
+        },
+        {
+            "description": "Przeciwnik nagle zatrzymuje się, unosząc broń w wyczekiwaniu. Kiedy tylko zauważa moment twojego zawahania, wyprowadza szybkie i precyzyjne pchnięcie. 'To wszystko, na co cię stać?' – rzuca z wyraźnym rozbawieniem w głosie. Jego ruchy zdradzają zarówno doświadczenie, jak i chęć pokazania swojej wyższości."
+        },
+        {
+            "description": "Przeciwnik spogląda na ciebie z zaciętym wyrazem twarzy, a następnie rzuca się naprzód. Jego cios jest szybki i zdecydowany, a zaraz po nim następuje drugi, jeszcze bardziej zaskakujący. 'Myślałem, że to będzie trudniejsze!' – wykrzykuje, uśmiechając się z satysfakcją. Jego ruchy są pełne pewności siebie."
+        },
+        {
+            "description": "Przeciwnik wykonuje niski unik, jakby szykował się do obrony, ale w jednej chwili zmienia pozycję i atakuje z pełną siłą. 'Nie tak łatwo mnie przechytrzyć!' – rzuca z przekąsem. Każdy jego ruch jest precyzyjny, a w jego postawie widać zarówno determinację, jak i chęć udowodnienia swojej przewagi."
+        },
+        {
+            "description": "Przeciwnik rzuca się w twoją stronę z dzikim okrzykiem, wymierzając uderzenie pełne siły i determinacji. 'Przyznaj się, już się boisz!' – krzyczy, a jego ruchy stają się coraz bardziej nieprzewidywalne. Każdy jego krok jest starannie przemyślany, a w jego oczach widać błysk triumfu nad tobą."
+        },
+        {
+            "description": "Przeciwnik wykonuje szybki krok w bok, udając, że wycofuje się z walki, ale w chwili twojego zawahania atakuje niespodziewanie. 'To wszystko, na co cię stać?' – rzuca z drwiącym uśmiechem. Jego ruchy są pełne precyzji, a w jego głosie słychać nutę wyższości, która dodatkowo go motywuje."
+        },
+        {
+            "description": "Przeciwnik patrzy na ciebie przez chwilę, jakby badał każdy twój ruch, po czym z błyskawiczną szybkością wyprowadza atak. 'Spodziewałem się więcej!' – rzuca chłodno, jego głos pełen jest kpiny. Jego ciosy są pewne i precyzyjne, a w jego postawie widać niezwykłą koncentrację na zadaniu."
+        },
+        {
+            "description": "Przeciwnik lekko opuszcza broń, markując zmęczenie, po czym nagle rzuca się do przodu z niezwykłą prędkością. 'Już czas zakończyć tę farsę!' – mówi, a jego ciosy stają się coraz bardziej zdecydowane. W jego oczach widać determinację, która napędza każdy jego ruch i nadaje walce brutalnego tempa."
+        },
+        {
+            "description": "Przeciwnik unosi broń, jakby celował w jedno miejsce, ale w ostatniej chwili zmienia kierunek i atakuje z zaskakującego kąta. 'Myślisz, że mnie oszukasz?' – rzuca z wyraźnym rozbawieniem. Jego ruchy są płynne i pełne pewności siebie, jakby każda sekunda walki była dla niego czystą przyjemnością."
+        },
+        {
+            "description": "Przeciwnik robi dwa szybkie kroki w twoją stronę, markując atak z boku, ale niespodziewanie zmienia taktykę i wyprowadza pchnięcie z góry. 'Niezły refleks, ale to nie wystarczy!' – rzuca, a w jego głosie słychać wyzwanie. Jego ciosy są przemyślane, a każdy kolejny ruch zmusza cię do maksymalnej uwagi."
+        },
+        {
+            "description": "Przeciwnik krąży wokół ciebie, jakby badał twoje słabe strony. Kiedy tylko dostrzega moment twojego zawahania, wyprowadza szybkie i precyzyjne uderzenie. 'Już się poddajesz?' – mówi z triumfem w głosie. Jego ruchy są pełne energii i determinacji, a każdy jego krok pokazuje, że traktuje tę walkę poważnie."
+        },
+        {
+            "description": "Przeciwnik zatrzymuje się na moment, jakby szykował się do obrony, ale nagle rzuca się w twoją stronę z pełną siłą. 'Tylko tyle potrafisz?' – krzyczy, a w jego głosie słychać drwinę. Jego ciosy są dynamiczne, a w jego postawie widać zarówno doświadczenie, jak i pewność siebie, które nadają walce intensywności."
+        },
+        {
+            "description": "Przeciwnik przestępuje z nogi na nogę, jakby szukał odpowiedniej chwili na atak. W końcu wykonuje zmyłkę, która kończy się szybkim pchnięciem. 'Nie uciekaj teraz, to dopiero się rozkręca!' – rzuca z lekko szyderczym uśmiechem. W jego ruchach widać zarówno determinację, jak i chłodną kalkulację."
+        },
+        {
+            "description": "Przeciwnik robi krok w bok, by zmylić twoje spojrzenie, a następnie gwałtownie wyprowadza cios z drugiej strony. 'Zbyt wolny!' – syczy, a w jego oczach widać wyraźne samozadowolenie. Każdy ruch zdaje się być precyzyjnie obliczony, zmuszając cię do zachowania najwyższej czujności."
+        },
+        {
+            "description": "Przeciwnik markuje cios z boku, ale w połowie ruchu nagle zmienia trajektorię, atakując od dołu. 'Za łatwo przewidzieć twoje ruchy!' – mówi, a jego głos jest pełen wyraźnej drwiny. Jego ruchy są płynne, a każde uderzenie wydaje się być prowadzone z ogromną pewnością siebie."
+        },
+        {
+            "description": "Przeciwnik zaczyna obracać broń w dłoniach, jakby chciał cię zdekoncentrować. Nagle wykonuje gwałtowny krok w przód, wyprowadzając szerokie cięcie. 'Nie podchodź za blisko, bo pożałujesz!' – mówi, a w jego głosie słychać chłodną pewność siebie. Każdy ruch zdradza doświadczenie i pewną rutynę."
+        },
+        {
+            "description": "Przeciwnik unosi broń, jakby szykował się do potężnego uderzenia, po czym niespodziewanie wykonuje zmyłkę i wyprowadza pchnięcie. 'Za łatwo, prawda? Nie sądzę!' – rzuca, uśmiechając się z wyraźną satysfakcją. Jego ruchy są szybkie i zaskakujące, zmuszając cię do błyskawicznych reakcji."
+        },
+        {
+            "description": "Przeciwnik wykonuje szybki krok w przód, jakby zamierzał zaatakować, ale w ostatniej chwili cofa się i uderza pod kątem. 'Nie myślałeś, że to będzie takie proste?' – mówi z lekko drwiącym tonem. Jego ruchy zdradzają pewność siebie i chłodne opanowanie, które czynią go trudnym przeciwnikiem."
+        },
+        {
+            "description": "Przeciwnik wyprowadza kilka drobnych ruchów, jakby chciał cię zdekoncentrować, po czym gwałtownie atakuje. 'Nie nadążasz? Może czas się poddać!' – rzuca, wyraźnie rozbawiony. Każdy jego krok zdaje się być starannie przemyślany, a w jego oczach widać pewność wygranej."
+        },
+        {
+            "description": "Przeciwnik chwyta swoją broń mocniej i wykonuje szerokie cięcie, po czym natychmiast zmienia kierunek ataku. 'To wszystko, co potrafisz?' – rzuca z wyraźnym szyderstwem w głosie. Jego ruchy są precyzyjne, a w każdym z nich widać doświadczenie, które wymusza na tobie maksymalną czujność."
+        },
+        {
+            "description": "Przeciwnik markuje cios w powietrzu, jakby chciał cię sprowokować, a następnie rzuca się naprzód z pełną siłą. 'Musisz się postarać bardziej!' – mówi, a w jego głosie słychać nutę kpiny. Jego ruchy są płynne i szybkie, a każde kolejne uderzenie wydaje się być bardziej zuchwałe."
+        },
+        {
+            "description": "Przeciwnik unosi broń, jakby szykował się do obrony, ale nagle wykonuje zwrot i wyprowadza błyskawiczny atak. 'Za wolno, nie nadążasz!' – rzuca, a jego głos pełen jest wyraźnej drwiny. Każdy jego ruch jest dynamiczny i wymaga od ciebie błyskawicznej reakcji."
+        },
+        {
+            "description": "Przeciwnik przestępuje z nogi na nogę, obserwując cię uważnie, po czym wyprowadza cięcie pod kątem. 'Nie tak łatwo mnie pokonać!' – mówi, a w jego oczach widać błysk pewności siebie. Każdy jego ruch jest starannie przemyślany, a każde uderzenie niesie za sobą groźbę."
+        },
+        {
+            "description": "Przeciwnik udaje wycofanie, stawiając kilka kroków w tył, ale nagle rzuca się naprzód z pełnym impetem. 'Sądzisz, że cię nie przejrzałem?' – rzuca chłodno, a w jego ruchach widać doświadczenie i pewność siebie. Każdy cios zdaje się być wymierzony z precyzją godną mistrza."
+        },
+        {
+            "description": "Przeciwnik wykonuje kilka szybkich kroków w twoją stronę, markując atak, ale nagle wyprowadza pchnięcie z nieoczekiwanego kierunku. 'Nieźle, ale jeszcze za mało!' – mówi, wyraźnie zadowolony z siebie. Jego ruchy są szybkie i trudne do przewidzenia, a każdy kolejny krok zdaje się zacieśniać krąg wokół ciebie."
+        },
+        {
+            "description": "Przeciwnik unosi broń, jakby chciał zaatakować od góry, ale w ostatniej chwili zmienia kierunek i uderza od boku. 'Jeszcze cię nie zmęczyłem?' – pyta z uśmiechem pełnym złośliwości. Jego ruchy są płynne i dynamiczne, a każde kolejne uderzenie wydaje się być bardziej zuchwałe."
+        },
+        {
+            "description": "Przeciwnik wykonuje lekki ruch w bok, jakby szykował się do uniknięcia twojego ataku, ale nagle sam uderza. 'Nie myślałeś, że będzie tak łatwo, prawda?' – mówi z lekko drwiącym tonem. Jego ruchy zdradzają nie tylko doświadczenie, ale też pewność siebie, która napędza jego działania."
+        },
+        {
+            "description": "Przeciwnik przez chwilę stoi bez ruchu, jakby analizował sytuację, po czym wyprowadza nagłe pchnięcie. 'Zaczynasz się pocić, widzę to!' – rzuca z zadowoleniem. Jego ruchy są precyzyjne i gwałtowne, a w jego postawie widać zarówno determinację, jak i chęć dominacji."
+        },
+        {
+            "description": "Przeciwnik robi krok w tył, pozwalając ci na chwilowe rozluźnienie, po czym nagle przystępuje do ataku. 'Słyszałem, że jesteś lepszy!' – rzuca, wyprowadzając zaskakujące pchnięcie. Jego ruchy są szybkie, a w oczach pojawia się mieszanka determinacji i złośliwości, jakby chciał pokazać, kto tu rządzi."
+        },
+        {
+            "description": "Przeciwnik pochyla się lekko do przodu, jakby szykując się do szarży. Zamiast tego markuje uderzenie, po czym szybko zmienia kierunek ataku. 'To dopiero początek, zobaczysz!' – mówi, a jego ton jest pełen zuchwałości. Jego ruchy są dynamiczne i precyzyjne, wymuszając na tobie błyskawiczne reakcje."
+        },
+        {
+            "description": "Przeciwnik zmruża oczy i robi krok w bok, próbując zmylić twoje spojrzenie. W jednej chwili wyprowadza szerokie cięcie. 'Nieźle, ale to nie wystarczy!' – mówi, uśmiechając się z wyraźnym samozadowoleniem. W jego ruchach widać doświadczenie, a każdy cios zdaje się być obliczony na sukces."
+        },
+        {
+            "description": "Przeciwnik na moment opuszcza broń, jakby chcąc cię sprowokować. W mgnieniu oka podnosi ją z powrotem, atakując z siłą. 'Musisz się bardziej postarać!' – rzuca, a jego głos brzmi stanowczo. Każdy jego ruch jest pełen energii i determinacji, jakby walka była dla niego naturalnym stanem."
+        },
+        {
+            "description": "Przeciwnik zaczyna krążyć wokół ciebie, szukając słabego punktu. W pewnym momencie nagle wyprowadza cios od boku. 'Nie tak szybko, moja kolej!' – mówi, a w jego tonie słychać nutę ironii. Jego ruchy są płynne, jakby czerpał przyjemność z samej walki, a nie tylko z jej wyniku."
+        },
+        {
+            "description": "Przeciwnik wyprowadza kilka drobnych ruchów, jakby chciał cię zdekoncentrować, po czym nagle rzuca się na ciebie. 'Nie spodziewałeś się tego, prawda?' – mówi, jego głos jest nasycony pewnością siebie. Każdy jego krok jest precyzyjny, a ciosy wymierzane z idealnym wyczuciem chwili."
+        },
+        {
+            "description": "Przeciwnik zmienia chwyt na swojej broni, jakby szykując się do innej taktyki. Po chwili wykonuje gwałtowny zamach, celując z zaskakującą siłą. 'Nie wytrzymasz długo w tym tempie!' – rzuca z lekko drwiącym uśmiechem. Jego ruchy są płynne, a cała postawa zdradza pewność siebie."
+        },
+        {
+            "description": "Przeciwnik wykonuje gwałtowny krok naprzód, wymuszając na tobie cofnięcie się. W tym momencie wyprowadza precyzyjne cięcie. 'Spójrz na siebie, już się cofasz!' – mówi, w jego głosie pobrzmiewa nuta triumfu. Każdy jego ruch zdaje się być przemyślany i obliczony na wywarcie presji."
+        },
+        {
+            "description": "Przeciwnik wyciąga broń przed siebie, jakby szykując się do długiego pchnięcia, ale nagle skraca dystans. 'Nie nadążasz za mną!' – mówi, wyprowadzając kolejny zaskakujący cios. W jego oczach pojawia się błysk ekscytacji, jakby czerpał energię z każdej wymiany ciosów."
+        },
+        {
+            "description": "Przeciwnik przerywa na moment walkę, unosząc broń w defensywie. Gdy tylko próbujesz wykorzystać tę chwilę, natychmiast przechodzi do ataku. 'Naprawdę myślałeś, że się zawahałem?' – pyta, jego głos pełen jest chłodnej pewności siebie. Jego ruchy są dynamiczne i przemyślane."
+        },
+        {
+            "description": "Przeciwnik zaczyna poruszać się w sposób zdezorientowany, jakby celowo chciał wprowadzić chaos. W jednej chwili rzuca się na ciebie z pełną siłą. 'Nie spodziewałeś się tego, prawda?' – mówi, a w jego głosie słychać nutę triumfu. Jego ruchy są dzikie, ale skuteczne."
+        },
+        {
+            "description": "Przeciwnik przestaje się ruszać na ułamek sekundy, po czym wykonuje nagły, szeroki zamach. 'Zaczynasz wyglądać na zmęczonego!' – mówi z drwiącym uśmiechem. Jego atak jest gwałtowny i wymaga od ciebie pełnego skupienia, aby nie dać się zaskoczyć."
+        },
+        {
+            "description": "Przeciwnik zwalnia tempo swoich ruchów, jakby chciał uspokoić sytuację, po czym nagle wyprowadza szybki cios. 'To było zbyt łatwe do przewidzenia!' – rzuca, a w jego głosie pobrzmiewa wyraźna kpina. Jego działania są dobrze przemyślane, a każdy ruch wydaje się obliczony na sukces."
+        },
+        {
+            "description": "Przeciwnik wykonuje krok w tył, jakby ustępując ci pola, po czym nagle zmienia tempo i atakuje. 'Nie myśl, że masz przewagę!' – mówi, a jego słowa brzmią niczym groźba. W jego ruchach widać równowagę między agresją a precyzją, co czyni go trudnym przeciwnikiem."
+        },
+        {
+            "description": "Przeciwnik unosi broń wysoko, jakby szykował się do potężnego cięcia, ale w ostatniej chwili zmienia taktykę. 'Nie przewidziałeś tego, prawda?' – mówi, a jego ton zdradza nutę triumfu. Jego działania są pełne energii, a każdy cios wydaje się być wymierzony z zamiarem przyparcia cię do muru."
+        },
+        {
+            "description": "Przeciwnik robi krok w lewo, a potem gwałtownie przemieszcza się w prawo, by wyprowadzić zaskakujące uderzenie. 'Nawet nie próbuj uciekać!' – rzuca, a w jego głosie pobrzmiewa nuta pewności siebie. Jego ruchy są szybkie i trudne do przewidzenia, wymuszając na tobie pełną koncentrację."
+        }
+    ]
+}
+
+
+

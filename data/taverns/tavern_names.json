@@ -1,0 +1,678 @@
+{
+    "zwyczajne": [
+        {
+            "nazwa": "Pod Złamanym Mieczem",
+            "geneza": "Nazwa pochodzi od miecza bohatera wojennego, który złamał go, broniąc wioski przed zielonoskórymi. Złamany miecz wisi teraz nad kominkiem w tawernie."
+        },
+        {
+            "nazwa": "U Spoconego Kowala",
+            "geneza": "Założycielem tawerny był kowal, który sprzedał swój warsztat, by otworzyć gospodę. Jego wizerunek w fartuchu wisi nad barem."
+        },
+        {
+            "nazwa": "Przystań na Rozdrożu",
+            "geneza": "Tawerna znajduje się przy skrzyżowaniu szlaków handlowych i jest miejscem odpoczynku dla zmęczonych wędrowców."
+        },
+        {
+            "nazwa": "Pod Piejącym Kogutem",
+            "geneza": "Nazwa pochodzi od koguta, który niegdyś budził całą wieś swoim donośnym pianiem. Pióra koguta wciąż zdobią jedną ze ścian."
+        },
+        {
+            "nazwa": "Zielony Wędrowiec",
+            "geneza": "Nazwa została nadana na cześć tajemniczego wędrowca, który uratował lokalnych chłopów przed bandytami i zniknął w lesie."
+        },
+        {
+            "nazwa": "Pod Zgubioną Mapą",
+            "geneza": "Założyciel tawerny, były kartograf, zgubił kiedyś mapę całego regionu, co przyniosło mu pecha i zmusiło do zmiany profesji."
+        },
+        {
+            "nazwa": "Pod Rdzawą Kotwicą",
+            "geneza": "Na ścianie wisi stara, zardzewiała kotwica znaleziona na pobliskim bagnie. Jest symbolem przeszłości pełnej tajemnic."
+        },
+        {
+            "nazwa": "U Wiejskiego Wróżbity",
+            "geneza": "Pierwszy właściciel był znanym wróżbitą, który przepowiadał przyszłość przy kuflu piwa. Jego stary talerz run zdobi ladę."
+        },
+        {
+            "nazwa": "Pod Krzywym Kominem",
+            "geneza": "Kominek w tawernie od zawsze był krzywy, co przynosiło gościom uśmiech i stało się charakterystycznym znakiem gospody."
+        },
+        {
+            "nazwa": "U Cichego Lisa",
+            "geneza": "Lokalna legenda mówi o lisie, który uratował wieś przed bandytami, prowadząc ich w pułapkę na bagnach."
+        },
+        {
+            "nazwa": "Miodowe Wzgórze",
+            "geneza": "Tawerna słynie z lokalnego miodu pitnego, którego przepis przekazywany jest od pokoleń w rodzinie właściciela."
+        },
+        {
+            "nazwa": "Pod Dębowym Gajem",
+            "geneza": "Nazwa pochodzi od gaju dębowego, który niegdyś otaczał tawernę, zanim wycięto go na potrzeby rozbudowy wioski."
+        },
+        {
+            "nazwa": "Zagubiona Wioska",
+            "geneza": "Gospoda została założona w miejscu, które według starych map było opuszczoną wioską zniszczoną przez wojnę."
+        },
+        {
+            "nazwa": "Pod Wędrowną Lutnią",
+            "geneza": "Założycielka tawerny była znaną bardką, a jej lutnia wciąż wisi nad wejściem jako pamiątka."
+        },
+        {
+            "nazwa": "Pod Spalonym Mostem",
+            "geneza": "Nazwa upamiętnia most, który został spalony przez wojska chaosu podczas jednej z bitew w okolicy."
+        },
+        {
+            "nazwa": "U Rozbitego Kufla",
+            "geneza": "Założyciel otworzył tawernę po przypadkowym rozbiciu kufla podczas swojego pierwszego dnia w nowym miejscu."
+        },
+        {
+            "nazwa": "Pod Czerwonym Kurkiem",
+            "geneza": "Nazwa pochodzi od starego szyldu przedstawiającego czerwonego kurka, który przetrwał po pożarze budynku."
+        },
+        {
+            "nazwa": "Pod Zielonym Kamieniem",
+            "geneza": "Właściciel znalazł duży, zielony kamień na polu, który teraz leży przed wejściem do tawerny jako lokalny talizman."
+        },
+        {
+            "nazwa": "U Rozśpiewanego Mnicha",
+            "geneza": "Tawernę założył były mnich, znany z pięknego śpiewu, który obecnie bawi gości swoimi pieśniami."
+        },
+        {
+            "nazwa": "Pod Wesołym Toporem",
+            "geneza": "Na ścianie wisi topór z wyrytym uśmiechem, który kiedyś należał do legendarnego wojownika."
+        },
+		{
+            "nazwa": "Pod Tęczowym Kuflem",
+            "geneza": "Nazwa pochodzi od kufla, który ponoć zmienia kolory w świetle dnia. Legenda mówi, że jest to artefakt z dalekiej Tilei."
+        },
+        {
+            "nazwa": "Pod Mosiężnym Dzwonem",
+            "geneza": "Nad wejściem wisi stary dzwon okrętowy, który właściciel uratował z wraku statku na Reiku."
+        },
+        {
+            "nazwa": "Pod Zgniłym Jabłkiem",
+            "geneza": "Tawerna została zbudowana na miejscu starego sadu, gdzie jedyne drzewo, które przetrwało, rodziło zgniłe owoce."
+        },
+        {
+            "nazwa": "Pod Sennym Krukiem",
+            "geneza": "Założyciel widział we śnie kruka, który prowadził go do miejsca, gdzie otworzył tawernę. Od tego czasu w tawernie zawsze przesiaduje czarny ptak."
+        },
+        {
+            "nazwa": "Pod Złamanym Kołem",
+            "geneza": "Nazwa pochodzi od historii karawany, której wóz rozpadł się przed budynkiem, zmuszając handlarzy do dłuższego postoju."
+        },
+        {
+            "nazwa": "U Tłustego Wilka",
+            "geneza": "Wilk, który kiedyś grasował w okolicy, stał się lokalną legendą po tym, jak okazał się bardziej zainteresowany resztkami jedzenia niż atakowaniem ludzi."
+        },
+        {
+            "nazwa": "Pod Wieczorną Gwiazdą",
+            "geneza": "Tawerna została nazwana na cześć jasnej gwiazdy, która pojawia się nad nią każdego wieczoru."
+        },
+        {
+            "nazwa": "Pod Kamiennym Smokiem",
+            "geneza": "Przy wejściu do tawerny znajduje się rzeźba smoka wykonana z kamienia przez lokalnego artystę."
+        },
+        {
+            "nazwa": "Pod Mokrą Strzechą",
+            "geneza": "Nazwa pochodzi od wiecznie przeciekającego dachu, który właściciel naprawiał przez lata bez większego sukcesu."
+        },
+        {
+            "nazwa": "U Siedmiu Kręgów",
+            "geneza": "Tawerna stoi w miejscu, gdzie według legendy Sigmar stoczył walkę z demonem, tworząc siedem okręgów w ziemi."
+        },
+        {
+            "nazwa": "Pod Słodką Wiśnią",
+            "geneza": "Właściciel nazwał tawernę na cześć drzewa wiśni, które rośnie na dziedzińcu i przynosi wyjątkowo smaczne owoce."
+        },
+        {
+            "nazwa": "Pod Czarną Furtą",
+            "geneza": "Tawerna znajduje się obok starej, czarnej bramy, która niegdyś prowadziła na cmentarz."
+        },
+        {
+            "nazwa": "U Śpiącego Krasnoluda",
+            "geneza": "Legenda głosi, że w jednym z pokoi śpi od wieków krasnolud, którego nikt nie potrafi obudzić."
+        },
+        {
+            "nazwa": "Pod Złotą Sznurówką",
+            "geneza": "W tawernie wisi na ścianie sznurówka znaleziona w ruinach, która wygląda, jakby była wykonana ze złota."
+        },
+        {
+            "nazwa": "Pod Skrzypiącymi Deskami",
+            "geneza": "Podłoga w tawernie tak skrzypi, że słychać każdego wchodzącego gościa. Mieszkańcy wioski uznali to za zabawne i nazwali tawernę."
+        },
+        {
+            "nazwa": "U Rudego Lisa",
+            "geneza": "W okolicy krążyły opowieści o rudym lisie, który potrafił otwierać drzwi do spiżarni i piwnic."
+        },
+        {
+            "nazwa": "Pod Zardzewiałą Tarcza",
+            "geneza": "Na ścianie wisi zardzewiała tarcza, którą właściciel znalazł podczas polowania w pobliskim lesie."
+        },
+        {
+            "nazwa": "U Topniejącego Lodu",
+            "geneza": "Tawerna słynie z napojów chłodzonych lodem, który właściciel zdobywa w górach na północy."
+        },
+        {
+            "nazwa": "Pod Skrzydłem Orła",
+            "geneza": "Nazwa pochodzi od wielkiego orła, który niegdyś gniazdował na dachu tawerny, stając się symbolem miejsca."
+        },
+        {
+            "nazwa": "U Przewróconego Stołu",
+            "geneza": "Legenda mówi, że pierwszy właściciel w furii przewrócił stół, co zapoczątkowało wielką bójkę, którą mieszkańcy pamiętają do dziś."
+        },
+        {
+            "nazwa": "Pod Wędrownym Kociołkiem",
+            "geneza": "Założyciel tawerny podróżował po Imperium, zbierając przepisy na gulasze, które teraz serwuje gościom."
+        },
+        {
+            "nazwa": "Pod Starym Kuflem",
+            "geneza": "Na półce za barem stoi kufel, który był pierwszym naczyniem użytym w tej tawernie."
+        },
+        {
+            "nazwa": "U Mglistych Wzgórz",
+            "geneza": "Tawerna znajduje się u podnóża wzgórz, które rankiem toną w gęstej mgle."
+        },
+        {
+            "nazwa": "Pod Rozbitą Beczka",
+            "geneza": "Tawernę założono po tym, jak pierwsza dostawa piwa rozlała się w wyniku upadku beczki na progu."
+        },
+        {
+            "nazwa": "U Białego Kruka",
+            "geneza": "Nazwa pochodzi od rzadkiego białego kruka, który niegdyś odwiedzał tawernę, przynosząc szczęście."
+        },
+        {
+            "nazwa": "Pod Wiatrem Północy",
+            "geneza": "W okolicy zawsze wieje wiatr z północy, przynosząc ze sobą chłód i legendy o dalekich krainach."
+        },
+        {
+            "nazwa": "Pod Żelaznym Smokiem",
+            "geneza": "Na ścianie wisi rzeźba smoka wykonana przez kowala, który słynął ze swoich mistrzowskich umiejętności."
+        },
+        {
+            "nazwa": "Pod Złotym Kuflem",
+            "geneza": "Właściciel zdobył na turnieju nagrodę w postaci złotego kufla, który teraz zdobi ladę."
+        },
+        {
+            "nazwa": "Pod Latającą Strzałą",
+            "geneza": "Nazwa pochodzi od historii łucznika, który strzelił strzałę tak precyzyjnie, że przebiła dach tawerny i wbiła się w strop."
+        },
+        {
+            "nazwa": "Pod Wędrowną Mapą",
+            "geneza": "Założyciel był kartografem, a jego mapy wciąż wiszą na ścianach tawerny."
+        },
+        {
+            "nazwa": "Pod Głośnym Młotem",
+            "geneza": "W pobliżu znajduje się kuźnia, której hałas jest słyszalny przez cały dzień."
+        },
+        {
+            "nazwa": "U Pijanego Krasnoluda",
+            "geneza": "Legenda głosi, że krasnolud rzucił wyzwanie wszystkim gościom na konkurs picia i przegrał."
+        },
+        {
+            "nazwa": "Pod Złamaną Strzałą",
+            "geneza": "Tawerna zawdzięcza nazwę strzale, która utknęła w jednym z jej belek po starym ataku bandytów."
+        },
+        {
+            "nazwa": "Pod Starym Koniem",
+            "geneza": "Przed tawerną stoi rzeźba konia, który kiedyś należał do pierwszego właściciela."
+        },
+        {
+            "nazwa": "U Szarego Wilka",
+            "geneza": "Wilk szary przez lata był symbolem ochrony okolicznej wioski przed dzikimi bestiami."
+        },
+        {
+            "nazwa": "Pod Rozdartą Chorągwią",
+            "geneza": "Na ścianie wisi stara chorągiew, która została rozszarpana podczas bitwy w okolicy."
+        },
+        {
+            "nazwa": "U Dziewięciu Podków",
+            "geneza": "Właściciel odkrył dziewięć podków w miejscu, gdzie postanowił wybudować tawernę."
+        },
+        {
+            "nazwa": "Pod Pękniętym Dzbanem",
+            "geneza": "Pierwszy serwowany trunek w tej tawernie był podany w pękniętym dzbanie."
+        },
+        {
+            "nazwa": "U Czarnego Zająca",
+            "geneza": "Czarny zając jest symbolem szczęścia według lokalnych wierzeń."
+        },
+        {
+            "nazwa": "Pod Wędrownym Wozem",
+            "geneza": "Nazwa pochodzi od wozu handlarza, który niegdyś zaparkował przed tawerną na długi czas."
+        },
+        {
+            "nazwa": "Pod Złotym Sercem",
+            "geneza": "Nazwa odwołuje się do hołdu właściciela dla ukochanej osoby, która wspierała go w otwarciu tawerny."
+        },
+        {
+            "nazwa": "Pod Krwawym Mieczem",
+            "geneza": "Właściciel znalazł miecz z zaschniętą krwią w pobliskim lesie i umieścił go nad barem."
+        },
+        {
+            "nazwa": "Pod Cichym Strumieniem",
+            "geneza": "Tawerna znajduje się obok spokojnego strumienia, który słychać z jej wnętrza."
+        },
+        {
+            "nazwa": "Pod Chwiejnym Stołem",
+            "geneza": "Stół w centralnej części tawerny zawsze lekko się chwieje, co stało się miejscową anegdotą."
+        },
+        {
+            "nazwa": "U Złotej Tarczki",
+            "geneza": "Na ladzie stoi mała złota tarczka, którą właściciel wygrał w turnieju rycerskim."
+        },
+        {
+            "nazwa": "Pod Mglistym Lasem",
+            "geneza": "Nazwa pochodzi od lasu spowitego mgłą, który otacza tawernę."
+        },
+        {
+            "nazwa": "U Śpiewającej Żaby",
+            "geneza": "Legenda głosi, że żaba, która mieszkała w studni przed tawerną, śpiewała w nocy."
+        },
+        {
+            "nazwa": "Pod Krzywym Kominem",
+            "geneza": "Komin tawerny jest lekko przekrzywiony, co nadaje budynkowi charakterystyczny wygląd."
+        },
+        {
+            "nazwa": "Pod Czarną Wieżą",
+            "geneza": "Tawerna mieści się w cieniu wieży, która według mieszkańców jest nawiedzona."
+        },
+        {
+            "nazwa": "U Słonecznego Klonu",
+            "geneza": "Przed tawerną rośnie wielki klon, który pięknie mieni się w promieniach słońca."
+        },
+        {
+            "nazwa": "Pod Rdzawym Kotłem",
+            "geneza": "Właściciel używa rdzewiejącego kotła jako dekoracji na dziedzińcu."
+        },
+        {
+            "nazwa": "Pod Przekrzywioną Latarną",
+            "geneza": "Nazwa pochodzi od latarni, która stoi przed tawerną i zawsze jest lekko pochylona."
+        },
+        {
+            "nazwa": "Pod Wiosenną Gwiazdą",
+            "geneza": "Tawerna została otwarta w czasie, gdy na niebie pojawiła się wyjątkowo jasna gwiazda."
+        },
+        {
+            "nazwa": "Pod Zielonym Kuflem",
+            "geneza": "Kufel, z którego serwowany jest pierwszy napój każdemu gościowi, jest malowany na zielono."
+        },
+        {
+            "nazwa": "Pod Kamiennym Lisem",
+            "geneza": "Nad wejściem znajduje się rzeźba lisa wykonana przez lokalnego kamieniarza."
+        },
+        {
+            "nazwa": "U Trzech Sosnowych Pni",
+            "geneza": "Nazwa pochodzi od trzech sosnowych pni, które stoją przed tawerną od wieków."
+        },
+        {
+            "nazwa": "Pod Jedwabnym Skrzydłem",
+            "geneza": "Nazwa nawiązuje do obrazu przedstawiającego anioła, który wisi za barem."
+        },
+        {
+            "nazwa": "U Tańczącego Lwa",
+            "geneza": "Podczas otwarcia tawerny właściciel zaprezentował taniec w masce lwa, co stało się legendą w okolicy."
+        }
+    ],
+    "bogate": [
+        {
+            "nazwa": "Pod Złotym Pucharem",
+            "geneza": "Na barze stoi złoty puchar zdobyty przez założyciela w konkursie win."
+        },
+        {
+            "nazwa": "Pod Diamentową Koroną",
+            "geneza": "Na ścianie wisi replika królewskiej korony wysadzanej diamentami."
+        },
+        {
+            "nazwa": "Pod Srebrnym Smokiem",
+            "geneza": "Nazwa nawiązuje do srebrnej figurki smoka, którą właściciel otrzymał od Tileańskiego kupca."
+        },
+        {
+            "nazwa": "Pod Jedwabnym Księżycem",
+            "geneza": "Dekoracje sufitu przedstawiają księżyc wykonany z jedwabnych materiałów."
+        },
+        {
+            "nazwa": "Pod Rubinem Imperatora",
+            "geneza": "Legenda mówi, że nazwa pochodzi od rubinowego klejnotu, który zaginął w tej tawernie."
+        },
+        {
+            "nazwa": "Pod Złotym Lewkiem",
+            "geneza": "Nazwa nawiązuje do małej złotej statuetki lwa, która zdobi wejście."
+        },
+        {
+            "nazwa": "Pod Morskim Kryształem",
+            "geneza": "Nazwa pochodzi od wielkiego kryształu sprowadzonego z wysp w Tilei."
+        },
+        {
+            "nazwa": "U Kryształowego Żyrandola",
+            "geneza": "Centralnym punktem sali jest ogromny kryształowy żyrandol, który rzuca migoczące światło."
+        },
+        {
+            "nazwa": "Pod Ametystowym Skrzydłem",
+            "geneza": "Nazwa pochodzi od ozdobnego skrzydła z ametystu, które zdobi kominek."
+        },
+        {
+            "nazwa": "Pod Platynową Pieczęcią",
+            "geneza": "Pieczęć umieszczona za barem jest pamiątką po dawnym szlacheckim rodzie."
+        },
+        {
+            "nazwa": "Pod Szkarłatnym Jednorożcem",
+            "geneza": "Właściciel nazwał tawernę na cześć legendarnego jednorożca opisanego w lokalnych kronikach."
+        },
+        {
+            "nazwa": "Pod Łabędziem w Koronie",
+            "geneza": "Łabędź z korony widnieje na herbie właściciela."
+        },
+        {
+            "nazwa": "Pod Karmazynowym Księżycem",
+            "geneza": "Wnętrze jest ozdobione gobelinami przedstawiającymi karmazynowy księżyc nad Reikiem."
+        },
+        {
+            "nazwa": "Pod Błękitnym Diamentem",
+            "geneza": "W szyldzie tawerny osadzony jest prawdziwy błękitny diament."
+        },
+        {
+            "nazwa": "Pod Wieńcem Złota",
+            "geneza": "Nazwa pochodzi od wieńca zrobionego z liści złoconych ręcznie, wiszącego nad wejściem."
+        },
+        {
+            "nazwa": "Pod Rubinowym Piórem",
+            "geneza": "Nazwa pochodzi od zdobionego rubinami pióra, które znajduje się w gablocie na głównej sali."
+        },
+        {
+            "nazwa": "U Szlacheckiej Róży",
+            "geneza": "Nazwa pochodzi od obrazu przedstawiającego różę, który zdobi główną ścianę."
+        },
+        {
+            "nazwa": "Pod Cesarskim Obeliskiem",
+            "geneza": "Obelisk w ogrodzie tawerny został podarowany właścicielowi przez cesarskiego wysłannika."
+        },
+        {
+            "nazwa": "Pod Gwiezdnym Żyrandolem",
+            "geneza": "Żyrandol w głównej sali ozdobiony jest kryształami przypominającymi gwiazdy."
+        },
+        {
+            "nazwa": "U Rubinowego Smoka",
+            "geneza": "Rzeźba smoka wysadzana rubinami zdobi wejście do tawerny."
+        },
+        {
+            "nazwa": "Pod Lśniącym Kryształem",
+            "geneza": "Kryształ, który znajduje się na barze, był prezentem od lokalnego szlachcica."
+        },
+        {
+            "nazwa": "Pod Płomieniem Feniksa",
+            "geneza": "Na ścianach widnieją freski przedstawiające feniksa unoszącego się z płomieni."
+        },
+        {
+            "nazwa": "U Księżycowego Hełmu",
+            "geneza": "Nazwa pochodzi od hełmu ozdobionego księżycem, znajdującego się nad kominkiem."
+        },
+        {
+            "nazwa": "Pod Lilią Imperium",
+            "geneza": "Nazwa pochodzi od lilii, która była ulubionym kwiatem cesarskiej rodziny."
+        },
+        {
+            "nazwa": "Pod Srebrną Latarnią",
+            "geneza": "Latarnia z czystego srebra stoi na środku sali jako główny element dekoracyjny."
+        },
+        {
+            "nazwa": "Pod Złotym Mostem",
+            "geneza": "Most, przedstawiony na fresku w głównej sali, jest legendarnym przejściem do Altdorfu."
+        },
+        {
+            "nazwa": "U Smoczego Kręgu",
+            "geneza": "Nazwa pochodzi od herbu przedstawiającego smoka, który zdobi wejście do tawerny."
+        },
+        {
+            "nazwa": "Pod Gwiaździstym Baldachimem",
+            "geneza": "Nazwa pochodzi od sufitu ozdobionego malowidłami przedstawiającymi gwiazdy."
+        },
+        {
+            "nazwa": "Pod Koralową Perłą",
+            "geneza": "Nazwa nawiązuje do pereł koralowych, które są eksponowane w głównej sali."
+        },
+        {
+            "nazwa": "Pod Lśniącą Strzałą",
+            "geneza": "Na ścianie wisi strzała zdobiona złotem, która należała do elitarnego łucznika Imperium."
+        },
+        {
+            "nazwa": "Pod Szafirowym Orłem",
+            "geneza": "Nazwa pochodzi od zdobionego szafirami orła, symbolu dawnego królestwa w Reiklandzie."
+        },
+        {
+            "nazwa": "U Złotej Harfy",
+            "geneza": "Harfa wykonana ze złota, podarowana przez barda, stoi w głównej sali."
+        },
+        {
+            "nazwa": "Pod Kryształowym Smokiem",
+            "geneza": "Rzeźba smoka z kryształu górskiego zdobi wnętrze tawerny."
+        },
+        {
+            "nazwa": "U Rubinu Księcia",
+            "geneza": "Nazwa pochodzi od rubinu podarowanego właścicielowi przez księcia Altdorfu."
+        },
+        {
+            "nazwa": "Pod Wodnym Żywiołem",
+            "geneza": "Fontanna w kształcie wodnego żywiołu znajduje się w centralnej części tawerny."
+        },
+        {
+            "nazwa": "Pod Cesarską Wieżą",
+            "geneza": "Nazwa nawiązuje do miniaturowej repliki cesarskiej wieży z Nuln, zdobiącej kominek."
+        },
+        {
+            "nazwa": "Pod Perłowym Wzgórzem",
+            "geneza": "Na freskach ściennych przedstawione jest mityczne wzgórze pokryte perłami."
+        },
+        {
+            "nazwa": "Pod Rubinową Różą",
+            "geneza": "Rubin w kształcie róży zdobi bar tawerny i przyciąga szlachciców."
+        },
+        {
+            "nazwa": "Pod Błękitnym Feniksem",
+            "geneza": "Fresk przedstawiający feniksa w błękitnych płomieniach zdobi sufit głównej sali."
+        },
+        {
+            "nazwa": "U Lilii Szlacheckiej",
+            "geneza": "Lilia wysadzana klejnotami jest symbolem rodowym właściciela tawerny."
+        },
+        {
+            "nazwa": "Pod Złotą Bramą",
+            "geneza": "Nazwa pochodzi od złotej repliki Bramy Sigmara umieszczonej nad wejściem."
+        },
+        {
+            "nazwa": "U Złotego Pegaza",
+            "geneza": "Rzeźba Pegaza wykonana z czystego złota zdobi ladę."
+        },
+        {
+            "nazwa": "Pod Płomieniem Vereny",
+            "geneza": "Właściciel nawiązał nazwą do fresku przedstawiającego boginię Verenę z płonącą księgą."
+        },
+        {
+            "nazwa": "Pod Kryształową Wieżą",
+            "geneza": "Nazwa nawiązuje do wieży z kryształu, która jest centralnym elementem ogrodu tawerny."
+        },
+        {
+            "nazwa": "Pod Lśniącą Gwiazdą",
+            "geneza": "Na suficie znajduje się ogromny żyrandol w kształcie gwiazdy wysadzanej diamentami."
+        },
+        {
+            "nazwa": "Pod Aksamitnym Tronem",
+            "geneza": "Na środku sali stoi bogato zdobiony tron pokryty aksamitem, symbolizujący władzę."
+        },
+        {
+            "nazwa": "Pod Platynowym Wężem",
+            "geneza": "Na ścianie wisi relief przedstawiający węża z platyny, ozdobionego szmaragdami."
+        },
+        {
+            "nazwa": "U Srebrnej Lilii",
+            "geneza": "Lilia z czystego srebra, podarowana przez magnata, zdobi wejście do tawerny."
+        },
+        {
+            "nazwa": "Pod Złotą Kolumną",
+            "geneza": "Centralnym elementem wnętrza jest złota kolumna z motywami mitologicznymi."
+        },
+        {
+            "nazwa": "Pod Gwiezdnym Sercem",
+            "geneza": "Na ladzie stoi kryształ w kształcie serca, który mieni się jak gwiazdy."
+        },
+        {
+            "nazwa": "U Diamentowego Wodza",
+            "geneza": "Na ścianie wisi portret legendarnego wodza z diamentowym naszyjnikiem."
+        },
+        {
+            "nazwa": "Pod Srebrną Tiarą",
+            "geneza": "Na wystawie znajduje się srebrna tiara, która kiedyś należała do cesarzowej."
+        },
+        {
+            "nazwa": "U Kryształowego Wodospadu",
+            "geneza": "Fontanna przypominająca kryształowy wodospad zdobi główną salę."
+        },
+        {
+            "nazwa": "Pod Koroną Sigmara",
+            "geneza": "Nazwa pochodzi od repliki korony Sigmara, umieszczonej nad barem."
+        },
+        {
+            "nazwa": "U Złotych Skrzydeł",
+            "geneza": "Freski przedstawiające złote skrzydła zdobią ściany i sufit tawerny."
+        },
+        {
+            "nazwa": "Pod Świtem Vereny",
+            "geneza": "Właściciel nazwał tawernę na cześć malowidła przedstawiającego świt bogini Vereny."
+        },
+        {
+            "nazwa": "Pod Szkarłatną Gwiazdą",
+            "geneza": "Na suficie znajduje się fresk przedstawiający szkarłatną gwiazdę nad Imperium."
+        },
+        {
+            "nazwa": "U Rubinowego Szczytu",
+            "geneza": "Nazwa pochodzi od rubinów zdobiących szczyt budynku tawerny."
+        },
+        {
+            "nazwa": "Pod Wieńcem Światła",
+            "geneza": "Żyrandol w kształcie wieńca oświetla całe wnętrze tawerny."
+        },
+        {
+            "nazwa": "U Szkarłatnej Róży",
+            "geneza": "Rzeźba róży wykonanej z rubinów jest centralnym punktem dekoracji sali głównej."
+        },
+		{
+            "nazwa": "Pod Lśniącym Słońcem",
+            "geneza": "Malowidło na suficie przedstawia złote słońce w otoczeniu promieni chwały."
+        },
+        {
+            "nazwa": "Pod Ametystowym Tronem",
+            "geneza": "Na środku sali znajduje się ozdobny tron inkrustowany ametystami, symbol władzy."
+        },
+        {
+            "nazwa": "Pod Złotym Żurawiem",
+            "geneza": "Rzeźba złotego żurawia zdobi kominek w głównej sali."
+        },
+        {
+            "nazwa": "U Platynowej Róży",
+            "geneza": "Nazwa pochodzi od róży z platyny, podarowanej przez jednego z lokalnych magnatów."
+        },
+        {
+            "nazwa": "Pod Cesarskim Feniksem",
+            "geneza": "Fresk na ścianie przedstawia feniksa, symbol odrodzenia i cesarskiej chwały."
+        },
+        {
+            "nazwa": "Pod Gwiazdą Wieczności",
+            "geneza": "Nazwa nawiązuje do klejnotu w kształcie gwiazdy, który ozdabia bar."
+        },
+        {
+            "nazwa": "Pod Rubinem Nocy",
+            "geneza": "Tawernę nazwano na cześć rubinu w kształcie księżyca, widniejącego na szyldzie."
+        },
+        {
+            "nazwa": "Pod Szlachetnym Pegazem",
+            "geneza": "Nazwa pochodzi od figurki pegaza wykonanej z czystego srebra, stojącej na ladzie."
+        },
+        {
+            "nazwa": "Pod Szmaragdową Bramą",
+            "geneza": "Dekoracja w głównej sali przedstawia bramę wysadzaną szmaragdami."
+        },
+        {
+            "nazwa": "U Gwiezdnego Łuku",
+            "geneza": "Łuk zdobiony diamentami, należący niegdyś do łowcy z Middenheim, wisi nad wejściem."
+        },
+        {
+            "nazwa": "Pod Lilią Złotego Świtu",
+            "geneza": "Nazwa pochodzi od symbolicznej lilii, która widnieje na obrazie w centralnej sali."
+        },
+        {
+            "nazwa": "Pod Błękitnym Lustrem",
+            "geneza": "Na ścianie wisi lustro o niebieskim odcieniu, które odbija światło żyrandola."
+        },
+        {
+            "nazwa": "Pod Perłą Imperium",
+            "geneza": "Właściciel nazwał tawernę na cześć legendarnej perły znalezionej na brzegach Altdorfu."
+        },
+        {
+            "nazwa": "U Złotych Liści",
+            "geneza": "Sufit jest ozdobiony złotymi liśćmi, symbolizującymi bogactwo i harmonię natury."
+        },
+        {
+            "nazwa": "Pod Gwiezdnym Witrażem",
+            "geneza": "Witraż w kształcie gwiazdy oświetla wnętrze tawerny kolorowym blaskiem."
+        },
+        {
+            "nazwa": "Pod Koroną Rubinu",
+            "geneza": "Na ścianie znajduje się korona zdobiona rubinami, będąca darem od lokalnego szlachcica."
+        },
+        {
+            "nazwa": "U Szlacheckiego Strzału",
+            "geneza": "Nazwa pochodzi od srebrnej strzały, która zdobi bar i przypomina o dawnym turnieju łuczniczym."
+        },
+        {
+            "nazwa": "Pod Gwiezdnym Szlakiem",
+            "geneza": "Fresk na suficie przedstawia mapę gwiazd nad Imperium."
+        },
+        {
+            "nazwa": "Pod Kryształowym Płomieniem",
+            "geneza": "Centralnym punktem dekoracji jest kryształowa rzeźba płomienia, symbolizująca wieczne światło."
+        },
+        {
+            "nazwa": "Pod Srebrnym Hełmem",
+            "geneza": "Hełm ze srebra, używany w wojnach z zielonoskórymi, jest eksponowany nad barem."
+        },
+        {
+            "nazwa": "Pod Lśniącym Żyrandolem",
+            "geneza": "Ogromny żyrandol z kryształów jest głównym punktem przyciągającym uwagę gości."
+        },
+        {
+            "nazwa": "U Srebrnej Omegi",
+            "geneza": "Dekoracja w formie omegi zdobi kominek i symbolizuje koniec starego i początek nowego."
+        },
+        {
+            "nazwa": "Pod Błękitnym Feniksem",
+            "geneza": "Sufit zdobi fresk feniksa w niebieskich płomieniach, symbolizującego odrodzenie."
+        },
+        {
+            "nazwa": "Pod Rubinem Zmierzchu",
+            "geneza": "Nazwa nawiązuje do rubinu w kształcie słońca, widniejącego w herbie właściciela."
+        },
+        {
+            "nazwa": "U Gwiezdnego Żeglarza",
+            "geneza": "Na kominku znajduje się model żaglowca zdobiony kamieniami szlachetnymi."
+        },
+        {
+            "nazwa": "Pod Szmaragdową Iglicą",
+            "geneza": "Iglica wykonana ze szmaragdów jest główną ozdobą tawerny."
+        },
+        {
+            "nazwa": "Pod Rubinowym Drzewem",
+            "geneza": "Rzeźba drzewa z rubinowymi liśćmi zdobi wejście do tawerny."
+        },
+        {
+            "nazwa": "Pod Błyskawicą Vereny",
+            "geneza": "Nazwa pochodzi od fresku przedstawiającego błyskawicę bogini Vereny, widniejącego na głównej ścianie."
+        },
+        {
+            "nazwa": "Pod Platynowym Mostem",
+            "geneza": "Most zdobiony platyną jest przedstawiony na malowidle w centralnej sali."
+        },
+        {
+            "nazwa": "Pod Diamentowym Smokiem",
+            "geneza": "Rzeźba smoka zdobiona diamentami stoi na środku głównej sali."
+        }
+    ]
+}

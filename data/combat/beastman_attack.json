@@ -1,0 +1,264 @@
+{
+    "beastman_attack": [
+        {
+            "description": "Przeciwnik ryczy dziko, a z jego pyska cieknie piana. Jego oczy błyszczą wściekłością, gdy rusza na ciebie, tupiąc ciężko kopytami o ziemię. Zamachuje się z brutalną siłą, wydając niski, gardłowy ryk, który niesie się echem po okolicy."
+        },
+        {
+            "description": "Przeciwnik uderza kopytem o ziemię, wbijając w nią głęboki ślad, po czym rzuca się naprzód z dzikim rykiem. Jego oddech jest ciężki, niemal zwierzęcy, a nozdrza rozszerzają się w furii. Ręce wykonują gwałtowne, szerokie ruchy, mające wymusić na tobie cofnięcie się."
+        },
+        {
+            "description": "Przeciwnik warczy nisko i głucho, jakby wprost z gardła wyciągał dzikie dźwięki. Jego mięśnie napinają się, a sierść stroszy, gdy nagle wyprowadza cios. W jego ruchach czuć nie tylko siłę, ale i dziką, nieposkromioną nienawiść."
+        },
+        {
+            "description": "Przeciwnik unosi się na tylnych nogach, wydając przeszywający, tubalny ryk, po czym gwałtownie uderza kopytem w ziemię. Rusza naprzód z impetem, wymachując bronią w chaotyczny, lecz niezwykle groźny sposób. Jego ruchom towarzyszy szereg gardłowych pomruków."
+        },
+        {
+            "description": "Przeciwnik pochyla się nisko, jakby szykował się do skoku, a z jego pyska wydobywa się chrapliwy warkot. W jednej chwili wyprowadza zamach, wydając przy tym dźwięk przypominający ryk wilka. Jego oczy płoną dzikim ogniem, a każdy ruch zdaje się być przepełniony nienawiścią."
+        },
+        {
+            "description": "Przeciwnik rzuca głową w górę, jakby chciał zasygnalizować swoją siłę, i wydaje przeciągły ryk. Z jego nozdrzy ulatuje para, a sierść na karku staje dęba. W jednej chwili rzuca się na ciebie z chaotycznymi, lecz brutalnymi ruchami, chcąc zmiażdżyć cię w bezpośrednim starciu."
+        },
+        {
+            "description": "Przeciwnik tupie ciężko kopytami o ziemię, a jego ryk przechodzi w niskie, gardłowe warczenie. Z impetem rusza do przodu, roztrącając wszystko na swojej drodze. Broń unosi się wysoko, by opaść z pełną siłą, a jego ruchy są dzikie i nieprzewidywalne."
+        },
+        {
+            "description": "Przeciwnik warczy przeciągle, jakby ostrzegając cię przed kolejnym ruchem. Nagle rzuca się do przodu, machając bronią w szerokim łuku. W jego ruchach widać połączenie zwierzęcego instynktu i nieposkromionej brutalności, które nie pozwalają ci na chwilę wytchnienia."
+        },
+        {
+            "description": "Przeciwnik chrapliwie oddycha, a z jego pyska wydobywają się głębokie, bulgoczące odgłosy. W pewnym momencie zamachuje się dziko, tupiąc przy tym kopytami. Jego ruchy są nieuporządkowane, ale pełne brutalnej siły, wymuszając na tobie natychmiastową reakcję."
+        },
+        {
+            "description": "Przeciwnik ryczy donośnie, a jego cielsko napina się w przygotowaniu do ataku. W jednej chwili skacze w twoją stronę, wykonując szeroki zamach. Gardłowe odgłosy i ciężkie tupnięcia kopyt sprawiają, że każde jego posunięcie wydaje się jeszcze bardziej niebezpieczne."
+        },
+        {
+            "description": "Przeciwnik zatrzymuje się na moment, warcząc głęboko, jakby chciał oszacować twoje ruchy. Po chwili unosi broń i wykonuje nagły zamach, towarzysząc temu gardłowym rykiem. Jego sierść stroszy się, a każdy ruch zdradza nieposkromioną wściekłość."
+        },
+        {
+            "description": "Przeciwnik głośno sapie, jakby każde jego tchnienie było wyrazem nieposkromionej furii. Nagle rzuca się w twoją stronę, wyprowadzając brutalny atak. Jego kopyta ciężko uderzają o ziemię, a z pyska wydobywa się niski, przeciągły ryk."
+        },
+        {
+            "description": "Przeciwnik rzuca głową na boki, wydając niskie, wibrujące odgłosy, które zdają się wypełniać przestrzeń wokół. Jego ruchy są chaotyczne, lecz przemyślane, gdy wyprowadza cios. Kiedy atakuje, jego ryk odbija się echem, jakby próbował zastraszyć cię swoją dzikością."
+        },
+        {
+            "description": "Przeciwnik zniża się, jakby gotując się do skoku, a z jego gardła wydobywa się niski, tubalny warkot. W jednej chwili rzuca się naprzód, machając bronią z niezwykłą siłą. Każdy jego ruch jest gwałtowny, a odgłosy, które wydaje, przypominają ryk rozjuszonego byka."
+        },
+        {
+            "description": "Przeciwnik zwraca ku tobie gniewne spojrzenie, tupiąc kopytami o ziemię. Jego warkot przechodzi w niski, przeciągły ryk, gdy rzuca się naprzód. Ruchy są gwałtowne, pełne nienawiści, a każdy krok zdaje się potęgować jego dzikość i brutalność."
+        },
+        {
+            "description": "Przeciwnik ryczy jak rozjuszone zwierzę, a jego broń unosi się w gotowości do ataku. Z impetem rzuca się w twoją stronę, machając chaotycznie, lecz z ogromną siłą. Odgłosy jego oddechu i tupania kopytami przypominają groźbę nieustannego zagrożenia."
+        },
+        {
+            "description": "Przeciwnik wydaje niski, przeciągły warkot, a jego kopyta rytmicznie uderzają o ziemię, jakby szykował się do szarży. Nagle zrywa się do ataku, wymachując bronią z chaotyczną wściekłością. Z jego pyska cieknie piana, a oczy lśnią w mroku, pełne dzikiego szału."
+        },
+        {
+            "description": "Przeciwnik staje na tylnych nogach, rycząc tak głośno, że powietrze wokół zdaje się drżeć. W jednej chwili opada na ziemię i wykonuje zamach, a jego ruchy są nieskoordynowane, lecz przepełnione brutalną siłą. Gardłowe dźwięki mieszają się z odgłosami łamanych gałęzi pod kopytami."
+        },
+        {
+            "description": "Przeciwnik wykonuje gwałtowny ruch, a jego ryk przechodzi w chrapliwe warczenie. Wydaje się, że każdy jego krok wbija się w ziemię z mocą, a broń wiruje w jego rękach z dzikim chaosem. Z pyska wydobywa się głośne sapanie, jakby napędzane nienawiścią."
+        },
+        {
+            "description": "Przeciwnik unosi głowę, a jego warkot przechodzi w niskie buczenie, które wibruje w twoich uszach. W jednej chwili rzuca się w twoim kierunku, wymachując bronią w szerokim łuku. Jego kopyta ciężko uderzają o podłoże, wprowadzając cię w stan czujności."
+        },
+        {
+            "description": "Przeciwnik pochyla się, jakby szykował się do skoku, a jego nozdrza rozdymają się wściekle. W jednej chwili rusza naprzód, wyprowadzając chaotyczny atak. Każdy ruch zdaje się być napędzany czystą nienawiścią, a ryk rozdziera powietrze."
+        },
+        {
+            "description": "Przeciwnik drży z furii, a jego pysk wykrzywia dziki grymas. Jego gardłowy ryk miesza się z trzaskiem uderzeń kopyt o ziemię. W jednej chwili rzuca się naprzód, machając bronią, jakby każdy jego cios miał zmiażdżyć twój opór."
+        },
+        {
+            "description": "Przeciwnik zastyga na chwilę, wydając niskie, gardłowe dźwięki przypominające ostrzeżenie. Po chwili jego ciało napina się, a on sam rusza z impetem, wyprowadzając zamach. Każdy jego krok zdaje się wstrząsać ziemią, a oddech przypomina dzikie parskanie."
+        },
+        {
+            "description": "Przeciwnik rzuca się do przodu z rykiem, który wydaje się wypełniać całą przestrzeń. Jego ruchy są dzikie i nieprzewidywalne, a broń zatacza w powietrzu chaotyczne łuki. Ostre parsknięcia i chrząknięcia towarzyszą każdemu jego kroku."
+        },
+        {
+            "description": "Przeciwnik zatrzymuje się na chwilę, wbijając w ciebie spojrzenie pełne czystej nienawiści. Po chwili jego ciało napina się, a on sam wyprowadza gwałtowny atak. Ryk, który wydaje, zdaje się wibrować w powietrzu, przeszywając cię na wskroś."
+        },
+        {
+            "description": "Przeciwnik zaczyna krążyć wokół ciebie, warcząc i wydając niskie, tubalne dźwięki. Nagle zatrzymuje się i rzuca naprzód, wyprowadzając brutalny zamach. W jego ruchach widać czystą, nieposkromioną dzikość, która zmusza cię do pełnej koncentracji."
+        },
+        {
+            "description": "Przeciwnik staje w miejscu, wydając przeciągły ryk, który zdaje się rezonować w twoich kościach. Jego ciało drży z napięcia, a nozdrza rozdymają się, jakby węszył krew. Nagle rzuca się w twoją stronę, wymachując bronią z brutalną siłą."
+        },
+        {
+            "description": "Przeciwnik tupie ciężko kopytami, jakby próbował wywołać w tobie strach. Po chwili unosi broń i rusza z impetem, a jego gardłowy warkot przechodzi w dziki ryk. Każdy ruch zdaje się być napędzany nienawiścią, jakby walka była dla niego wszystkim."
+        },
+        {
+            "description": "Przeciwnik pochyla głowę, jakby gotując się do szarży, a jego ryk rozdziera ciszę wokół. W jednej chwili rzuca się w twoją stronę, machając bronią w szerokim łuku. Odgłosy, które wydaje, przypominają mieszankę ryku lwa i wrzasku dzikiego ptaka."
+        },
+        {
+            "description": "Przeciwnik parska głośno, a z jego nozdrzy ulatuje para, jakby był rozjuszonym bykiem. Po chwili napina mięśnie i wyprowadza atak, a każdy jego krok jest ciężki i pełen determinacji. Gardłowe warczenie towarzyszy każdemu jego ruchowi, budząc w tobie niepokój."
+        },
+        {
+            "description": "Przeciwnik rzuca się naprzód z rykiem, który zdaje się wypełniać cały świat wokół. Jego ruchy są chaotyczne, lecz wypełnione dziką siłą. Kopyta uderzają o ziemię z taką mocą, że niemal czujesz wibracje, a broń świszcze w powietrzu."
+        },
+        {
+            "description": "Przeciwnik wydaje niski, przeciągły ryk, który zdaje się rezonować w twojej klatce piersiowej. W jednej chwili unosi broń i rzuca się naprzód, wymachując nią w chaotyczny sposób. Każdy jego krok wbija się w ziemię z brutalną determinacją."
+        },
+        {
+            "description": "Przeciwnik zatrzymuje się na chwilę, warcząc głęboko, jakby chciał zmusić cię do odwrotu. Nagle wykonuje gwałtowny ruch, rzucając się na ciebie z pełnym impetem. Jego oddech jest ciężki, a każdy krok wypełnia przestrzeń wokół głuchym echem."
+        },
+        {
+            "description": "Przeciwnik unosi głowę, wydając przeciągły ryk, który zdaje się odbijać echem w całej okolicy. W jednej chwili jego ciało napina się, a on sam rusza do przodu z chaotycznym atakiem. Każdy jego ruch jest nieprzewidywalny, lecz przepełniony brutalną siłą."
+        },
+        {
+            "description": "Przeciwnik tupie kopytami o ziemię, jakby chciał wywołać w tobie strach. Jego nozdrza rozdymają się, a z pyska wydobywa się niski, gardłowy warkot. Po chwili rzuca się naprzód, wymachując bronią w szerokim łuku, a jego ryk przeszywa powietrze."
+        },
+        {
+            "description": "Przeciwnik warczy dziko, a jego nozdrza rozdymają się, wdychając powietrze pełne zapachu krwi. Jego kopyta z impetem uderzają o ziemię, gdy nagle rzuca się w twoim kierunku. Jego broń zatacza chaotyczny łuk, a ryk wypełnia przestrzeń, niosąc ze sobą dziką furię."
+        },
+        {
+            "description": "Przeciwnik ryczy głucho, jakby chciał przeszyć cię samym dźwiękiem. W jednej chwili jego ciało napina się, a on sam rzuca się naprzód, uderzając kopytami o ziemię. Ruchy są gwałtowne, pełne zwierzęcej agresji, a każde jego działanie wydaje się instynktowne i brutalne."
+        },
+        {
+            "description": "Przeciwnik rzuca gniewne spojrzenie, a z jego pyska wydobywa się niski warkot. Gwałtownie zamachuje się, a jego broń świszcze w powietrzu. Kopyta przeciwnika uderzają o ziemię z mocą, której rytm zdaje się jedynie potęgować napięcie walki."
+        },
+        {
+            "description": "Przeciwnik zwalnia na moment, jakby mierząc odległość między wami, po czym ryczy przeraźliwie. W jednej chwili wykonuje szybki ruch naprzód, wymachując bronią w szerokim łuku. Jego kroki są ciężkie i pełne dzikości, a ryk zdaje się ogłuszać."
+        },
+        {
+            "description": "Przeciwnik unosi broń wysoko, wydając niski, gardłowy ryk, który przekształca się w przeciągłe wycie. Tupie kopytami o ziemię, jakby zbierał siły, a następnie rzuca się naprzód z brutalną energią. Każdy jego ruch przypomina rozjuszone zwierzę."
+        },
+        {
+            "description": "Przeciwnik opada na cztery kończyny, wydając niski, bulgoczący warkot. W jednej chwili podnosi się i rusza do ataku, wymachując bronią z dzikim chaosem. Jego nozdrza rozdymają się, a oczy błyszczą szaleństwem, gdy próbuje cię dosięgnąć."
+        },
+        {
+            "description": "Przeciwnik stoi przez chwilę nieruchomo, jakby zbierał się do skoku, po czym wydaje ryk i gwałtownie rusza naprzód. Jego kroki są ciężkie, a broń w jego rękach wiruje chaotycznie. Wydawane przez niego dźwięki to mieszanka warczenia i dzikiego wycia."
+        },
+        {
+            "description": "Przeciwnik rzuca głową na boki, a z jego pyska wydobywa się niski warkot. Nagle rusza w twoją stronę, unosząc broń w gotowości do ataku. Jego ruchy są gwałtowne, ale pełne brutalnej siły, a każdy krok zdaje się wbijać w ziemię z ogromnym impetem."
+        },
+        {
+            "description": "Przeciwnik głośno sapie, jakby każdy jego oddech był aktem czystej furii. W jednej chwili unosi broń i wyprowadza zamach, a jego ryk odbija się echem w okolicy. Jego kopyta ciężko uderzają o ziemię, wprowadzając dodatkowe napięcie."
+        },
+        {
+            "description": "Przeciwnik parska głośno, a z jego pyska wydobywają się niskie, gardłowe odgłosy. Po chwili rzuca się do przodu, machając bronią z dziką agresją. Jego ruchy są chaotyczne, lecz przepełnione brutalną determinacją, jakby nie znał innego celu niż zniszczenie."
+        },
+        {
+            "description": "Przeciwnik wydaje przeciągły ryk, który zdaje się przeszywać powietrze. W jednej chwili jego ciało napina się, a on sam rusza w twoją stronę z chaotycznym zamachem. Kopyta uderzają o ziemię z taką mocą, że niemal czujesz wibracje pod nogami."
+        },
+        {
+            "description": "Przeciwnik przybiera niską postawę, jakby szykował się do skoku, a jego nozdrza rozszerzają się wściekle. W jednej chwili unosi broń i rzuca się na ciebie, wydając niski, przeciągły warkot. Jego oczy lśnią szaleństwem, a każdy ruch zdaje się być pełen furii."
+        },
+        {
+            "description": "Przeciwnik ryczy głęboko, jakby chciał przeszyć cię samym dźwiękiem, a jego kopyta rytmicznie uderzają o ziemię. W jednej chwili rzuca się naprzód, wymachując bronią z brutalną determinacją. Jego ruchy są dzikie, a każdy krok niesie ze sobą groźbę nieustannego ataku."
+        },
+        {
+            "description": "Przeciwnik stoi przez chwilę w miejscu, warcząc głęboko i przeciągle, jakby ostrzegał cię przed następnym ruchem. Nagle rusza w twoją stronę, wykonując gwałtowny zamach. Jego oddech jest ciężki, a każdy krok wyraża czystą, nieposkromioną nienawiść."
+        },
+        {
+            "description": "Przeciwnik opada na jedno kolano, wydając przeciągły, gardłowy warkot, jakby szykował się do nagłego skoku. Po chwili rzuca się w twoją stronę, machając bronią z chaotyczną energią. Jego kroki są ciężkie, a każdy ruch przepełniony dziką siłą."
+        },
+        {
+            "description": "Przeciwnik rzuca gniewne spojrzenie, a z jego gardła wydobywa się niski, chrapliwy ryk. Nagle wykonuje gwałtowny ruch, rzucając się na ciebie z pełnym impetem. Każdy jego krok zdaje się wbijać w ziemię, a odgłosy towarzyszące atakowi przypominają dzikie warczenie."
+        },
+        {
+            "description": "Przeciwnik pochyla głowę, wydając niski, wibrujący ryk, który zdaje się wypełniać całą przestrzeń. W jednej chwili unosi broń i wykonuje brutalny zamach. Jego nozdrza rozdymają się, a oczy błyszczą wściekłością, gdy rzuca się na ciebie z niepohamowaną energią."
+        },
+        {
+            "description": "Przeciwnik tupie kopytami o ziemię, a jego warkot przechodzi w przeciągły ryk, który zdaje się wypełniać powietrze wokół. W jednej chwili rzuca się naprzód, machając bronią w szerokim łuku. Jego ruchy są gwałtowne, pełne nieprzewidywalnej furii."
+        },
+        {
+            "description": "Przeciwnik unosi broń, wydając niskie, bulgoczące odgłosy przypominające dzikie warczenie. Po chwili wykonuje gwałtowny ruch naprzód, a jego kroki są ciężkie i pełne determinacji. Ryk, który towarzyszy atakowi, zdaje się rezonować w twoich kościach."
+        },
+        {
+            "description": "Przeciwnik zatrzymuje się na moment, warcząc głęboko, jakby wahał się przez chwilę przed kolejnym ruchem. Nagle rusza w twoją stronę, machając bronią z brutalną siłą. Jego kopyta uderzają o ziemię, a oddech przypomina groźne parskanie."
+        },
+        {
+            "description": "Przeciwnik zwraca ku tobie gniewne spojrzenie, a z jego gardła wydobywa się niski, przeciągły warkot. W jednej chwili jego ciało napina się, a on sam rzuca się do przodu z dziką energią. Jego kroki są szybkie, a broń zatacza chaotyczne łuki."
+        },
+        {
+            "description": "Przeciwnik wykonuje krok w bok, jakby próbował cię zmylić, po czym wydaje niski, gardłowy ryk. W jednej chwili rzuca się naprzód, wymachując bronią z brutalną determinacją. Każdy jego ruch zdaje się być przepełniony niepohamowaną furią."
+        },
+        {
+            "description": "Przeciwnik wydaje przeraźliwy ryk, który niemal zagłusza dźwięki otoczenia. Jego ciało napina się jak cięciwa łuku, zanim rzuca się naprzód. Broń w jego rękach wiruje z chaotyczną siłą, a jego kroki są niczym rytmiczne uderzenia burzy."
+        },
+        {
+            "description": "Przeciwnik rzuca gniewne spojrzenie, a z jego pyska wydobywa się bulgoczący, gardłowy odgłos. Nagle pochyla się, tupiąc kopytami o ziemię, po czym wykonuje dziki zamach. Ryk, który wydaje, rozchodzi się echem po okolicy."
+        },
+        {
+            "description": "Przeciwnik staje na chwilę w miejscu, jakby oceniając sytuację, po czym zaczyna wściekle tupotać kopytami. W jego oczach widać czystą wściekłość. Unosi broń wysoko, wydając ryk, który przypomina mieszankę bólu i furii, a następnie gwałtownie rusza w twoją stronę."
+        },
+        {
+            "description": "Przeciwnik parska i wykrzywia pysk w grymasie, który przypomina dziki uśmiech. Jego ruchy są szybkie i chaotyczne, a każdy krok niesie ze sobą ciężar bestialskiej siły. Broń zatacza w jego rękach szerokie łuki, gdy wykonuje szarżę z przerażającym rykiem."
+        },
+        {
+            "description": "Przeciwnik wydaje przeciągły, gardłowy warkot, który przechodzi w przeraźliwe wycie. Jego kopyta odbijają się od ziemi z ogromną siłą, gdy rusza naprzód. Widzisz, jak jego broń zatacza szerokie kręgi, gotowa do zadania brutalnego ciosu."
+        },
+        {
+            "description": "Przeciwnik rzuca się gwałtownie na bok, warcząc niczym dzikie zwierzę. Jego ruchy są nieskoordynowane, ale pełne brutalności. Gdy broń unosi się w jego rękach, wydaje odgłos przypominający głębokie ryki, które zdają się odbijać echem w twojej głowie."
+        },
+        {
+            "description": "Przeciwnik ryczy głośno, jakby chciał zastraszyć wszystko w promieniu kilku metrów. Jego kopyta z impetem uderzają o ziemię, a on sam unosi broń i zamachuje się z siłą, która zdaje się przekraczać jego możliwości."
+        },
+        {
+            "description": "Przeciwnik warczy gardłowo, jego nozdrza rozdymają się, a każdy krok zdaje się odznaczać jego determinację. Unosi broń wysoko, po czym wykonuje szybki, gwałtowny zamach. Ryk, który wydaje, sprawia, że okolica wydaje się pełna dzikiej energii."
+        },
+        {
+            "description": "Przeciwnik tupie ciężko, jakby próbował podkreślić swoją dominację, a z jego gardła wydobywa się przeraźliwe wycie. W jednej chwili rzuca się na ciebie, jego broń przecina powietrze w brutalnym zamachu. Jego ruchy są chaotyczne, ale pełne siły."
+        },
+        {
+            "description": "Przeciwnik warczy nisko, a jego ciało napina się niczym sprężyna. W jednej chwili rzuca się do przodu, uderzając kopytami o ziemię. Broń w jego rękach zatacza gwałtowne, nieprzewidywalne łuki, a każdy krok wprowadza dodatkowe napięcie w powietrzu."
+        },
+        {
+            "description": "Przeciwnik wydaje dźwięki przypominające mieszankę warkotu i syku. Jego kopyta biją w ziemię z rytmiczną precyzją, zanim rzuca się naprzód. Jego broń świszcze w powietrzu, a on sam ryczy, jakby każda cząstka jego istnienia była pochłonięta walką."
+        },
+        {
+            "description": "Przeciwnik unosi głowę do góry i wydaje przeciągły ryk, który zdaje się wstrząsać powietrzem. Jego kroki są ciężkie, ale pełne determinacji, gdy wykonuje brutalny zamach. Broń wiruje w jego rękach niczym przedłużenie jego furii."
+        },
+        {
+            "description": "Przeciwnik parska, jego nozdrza rozdymają się, a każdy krok zdaje się być manifestacją czystej agresji. W jednej chwili rzuca się na ciebie, machając bronią w szerokim łuku. Jego dzikie wycie zdaje się nieść groźbę nieustępliwego ataku."
+        },
+        {
+            "description": "Przeciwnik zatrzymuje się na chwilę, jakby mierząc cię wzrokiem, po czym wykonuje gwałtowny ruch naprzód. Jego broń zatacza szerokie kręgi, a wydawane przez niego dźwięki przypominają gniewne ryki dzikiego zwierzęcia."
+        },
+        {
+            "description": "Przeciwnik odrzuca głowę w tył, wydając przeraźliwy ryk, który wibruje w powietrzu. Nagle rzuca się w twoim kierunku, a jego broń porusza się w dzikim, chaotycznym rytmie. Każdy jego krok jest gwałtowny, jakby nie znał innej drogi niż destrukcja."
+        },
+        {
+            "description": "Przeciwnik tupie głośno kopytami, a jego ruchy są gwałtowne i nieprzewidywalne. Z gardła wydobywa się niski, głuchy warkot, który przechodzi w ryk. W jednej chwili zamachuje się, a jego broń przecina powietrze z ogromną siłą."
+        },
+        {
+            "description": "Przeciwnik pochyla się, jakby szykując do skoku, a jego warkot staje się coraz głośniejszy. W jednej chwili rzuca się do ataku, jego kroki wibrują pod ciężarem uderzeń. Broń zatacza szerokie łuki, a każdy ruch wydaje się dziki i instynktowny."
+        },
+        {
+            "description": "Przeciwnik ryczy, a jego kopyta ciężko uderzają o ziemię, tworząc wrażenie nadciągającego sztormu. Nagle rusza w twoją stronę, wymachując bronią w brutalnym zamachu. Jego ruchy są niekontrolowane, ale przepełnione czystą, zwierzęcą siłą."
+        },
+        {
+            "description": "Przeciwnik wydaje głęboki, gardłowy odgłos, który przypomina zbliżającą się burzę. W jednej chwili rzuca się na ciebie, a jego broń przecina powietrze w dzikim, chaotycznym łuku. Każdy jego krok niesie ze sobą echo brutalnej determinacji."
+        },
+        {
+            "description": "Przeciwnik pochyla się nisko, warcząc głęboko i przeciągle. Po chwili wykonuje gwałtowny ruch, rzucając się naprzód. Broń w jego rękach wiruje z chaotyczną siłą, a ryk, który wydaje, zdaje się wypełniać całą przestrzeń wokół."
+        },
+        {
+            "description": "Przeciwnik parska, a jego nozdrza rozszerzają się, jakby wciągał zapach twojej obecności. W jednej chwili unosi broń i rusza do ataku, jego kroki ciężko odbijają się od ziemi. Wydaje odgłos przypominający wycie zmieszanego z gniewnym rykiem."
+        },
+        {
+            "description": "Przeciwnik opada na cztery kończyny, wydając niski, bulgoczący warkot. W jednej chwili podnosi się i rzuca się na ciebie z brutalną energią. Jego broń wiruje w jego rękach, a każdy krok jest oznaką dzikiej determinacji."
+        },
+        {
+            "description": "Przeciwnik unosi głowę i wydaje ryk, który wstrząsa okolicą. Jego kopyta biją w ziemię z niepokojącą rytmiką, a on sam rusza naprzód. Broń zatacza szerokie łuki, a każdy jego ruch wydaje się nacechowany czystą wściekłością."
+        },
+        {
+            "description": "Przeciwnik rzuca dzikie spojrzenie, po czym wydaje niski warkot. Jego kroki są ciężkie, a ruchy gwałtowne i nieprzewidywalne. Broń w jego rękach wiruje z chaotyczną energią, a jego ryk odbija się echem w twojej głowie."
+        },
+        {
+            "description": "Przeciwnik wydaje odgłos przypominający wściekłe wycie, które zdaje się wypełniać przestrzeń wokół. Jego kopyta uderzają w ziemię z nieustępliwością, a broń przecina powietrze w brutalnym, niekontrolowanym ruchu."
+        },
+        {
+            "description": "Przeciwnik zaskakuje cię dzikim rykiem, który rozbrzmiewa echem. W jednej chwili rusza w twoim kierunku, wymachując bronią w chaotycznym, ale pełnym siły ataku. Jego kroki są ciężkie i pełne gniewu, jakby każdy ruch był manifestacją jego furii."
+        },
+        {
+            "description": "Przeciwnik warczy przeciągle, a jego nozdrza rozdymają się, jakby wyczuwał strach. Unosi broń wysoko, wydając ryk, który przechodzi w przerażający krzyk. Jego ruchy są szybkie i pełne brutalnej determinacji."
+        },
+        {
+            "description": "Przeciwnik rzuca się naprzód z gwałtownym rykiem, który zdaje się odbijać od drzew wokół. Jego kroki są ciężkie, a broń w jego rękach zatacza szerokie kręgi. Każdy jego ruch jest dziki i pełen czystej, pierwotnej siły."
+        },
+        {
+            "description": "Przeciwnik unosi się na tylnych nogach, wydając ryk, który przypomina odgłos walczących bestii. Jego kopyta uderzają o ziemię, a broń przecina powietrze w brutalnym ataku. Każdy jego ruch emanuje wściekłością i determinacją."
+        }
+    ]
+}
+
+		

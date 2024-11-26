@@ -1,0 +1,716 @@
+{
+    "biedne": [
+        {
+            "nazwa": "Kapusta duszona z chlebem",
+            "opis": "Proste danie z duszonej kapusty z dodatkiem zeschniętego chleba, lekko przyprawione solą."
+        },
+        {
+            "nazwa": "Zupa wodna z korzonkami",
+            "opis": "Wodnista zupa gotowana na korzeniach i resztkach warzyw, czasem z kawałkiem twardego ziemniaka."
+        },
+        {
+            "nazwa": "Kasza jęczmienna na wodzie",
+            "opis": "Gotowana kasza jęczmienna bez dodatków, podawana z odrobiną soli."
+        },
+        {
+            "nazwa": "Placek ziemniaczany",
+            "opis": "Cienki placek z utartych ziemniaków, smażony na smalcu."
+        },
+        {
+            "nazwa": "Czerstwy chleb z solą",
+            "opis": "Kromka czerstwego chleba posypana szczyptą soli."
+        },
+        {
+            "nazwa": "Rzepa pieczona",
+            "opis": "Pieczona rzepa podawana na gorąco."
+        },
+        {
+            "nazwa": "Polewka z otrąb",
+            "opis": "Rozrzedzona polewka na bazie otrąb, podawana na ciepło."
+        },
+        {
+            "nazwa": "Zupa cebulowa",
+            "opis": "Prosta zupa na bazie cebuli i wody, lekko przyprawiona."
+        },
+        {
+            "nazwa": "Gotowana brukiew",
+            "opis": "Gotowana brukiew z dodatkiem wody i soli."
+        },
+        {
+            "nazwa": "Zupa na kościach",
+            "opis": "Rozrzedzony wywar gotowany na kościach, podawany z kawałkami chleba."
+        },
+        {
+            "nazwa": "Smażona kasza gryczana",
+            "opis": "Kasza gryczana podsmażona na resztkach smalcu."
+        },
+        {
+            "nazwa": "Placki mączne",
+            "opis": "Smażone placki z mąki i wody, lekko przyprawione."
+        },
+        {
+            "nazwa": "Zupa szczawiowa",
+            "opis": "Prosta zupa z dodatkiem szczawiu, podawana na zimno."
+        },
+        {
+            "nazwa": "Zupa z chwastów",
+            "opis": "Gotowana zupa z dzikich roślin, takich jak pokrzywy czy babki."
+        },
+        {
+            "nazwa": "Zupa kartoflana",
+            "opis": "Rozrzedzona zupa z ziemniakami i cebulą."
+        },
+        {
+            "nazwa": "Kasza na mleku wodnym",
+            "opis": "Kasza gotowana na rozcieńczonym mleku, podawana na ciepło."
+        },
+        {
+            "nazwa": "Polewka piwna",
+            "opis": "Rozcieńczone piwo podgrzewane z kawałkami chleba."
+        },
+        {
+            "nazwa": "Gotowana marchewka",
+            "opis": "Prosta marchewka gotowana na miękko."
+        },
+        {
+            "nazwa": "Rzepa z cebulą",
+            "opis": "Duszona rzepa z dodatkiem smażonej cebuli."
+        },
+        {
+            "nazwa": "Zupa z buraków",
+            "opis": "Rozrzedzona zupa z gotowanych buraków, bez przypraw."
+        },
+        {
+            "nazwa": "Kaszanka",
+            "opis": "Prosta kaszanka z resztkami podrobów, podawana na zimno."
+        },
+        {
+            "nazwa": "Pieczone ziemniaki",
+            "opis": "Ziemniaki pieczone w ognisku, podawane na gorąco."
+        },
+        {
+            "nazwa": "Chleb z łoju",
+            "opis": "Czerstwy chleb posmarowany łojem."
+        },
+        {
+            "nazwa": "Zupa z resztek",
+            "opis": "Zupa gotowana z dowolnych dostępnych resztek warzyw."
+        },
+        {
+            "nazwa": "Gotowane jabłko",
+            "opis": "Miękkie, gotowane jabłko, podawane na deser."
+        },
+        {
+            "nazwa": "Placki z kaszy",
+            "opis": "Smażone placki na bazie kaszy."
+        },
+        {
+            "nazwa": "Zupa pietruszkowa",
+            "opis": "Zupa z korzenia pietruszki, przyprawiona solą."
+        },
+        {
+            "nazwa": "Zupa z dyni",
+            "opis": "Rozrzedzona zupa z dyni, podawana na ciepło."
+        },
+        {
+            "nazwa": "Rzepa gotowana",
+            "opis": "Rzepa gotowana w wodzie z dodatkiem soli."
+        },
+        {
+            "nazwa": "Polewka z mąki",
+            "opis": "Polewka z wody i mąki, podawana na ciepło."
+        },
+        {
+            "nazwa": "Duszone liście buraka",
+            "opis": "Liście buraka duszone na tłuszczu."
+        },
+        {
+            "nazwa": "Zupa z kapusty",
+            "opis": "Rozrzedzona zupa gotowana na resztkach kapusty."
+        },
+        {
+            "nazwa": "Zupa z ziemniaków",
+            "opis": "Prosta zupa na bazie ziemniaków i wody."
+        },
+        {
+            "nazwa": "Chleb na zakwasie",
+            "opis": "Prosty, kwaskowy chleb podawany z solą."
+        },
+        {
+            "nazwa": "Zupa chlebowa",
+            "opis": "Rozrzedzona zupa na bazie rozmoczonego chleba."
+        },
+        {
+            "nazwa": "Placki z otrąb",
+            "opis": "Proste placki smażone na bazie otrąb."
+        },
+        {
+            "nazwa": "Gotowana fasola",
+            "opis": "Fasola gotowana w wodzie z odrobiną soli."
+        },
+        {
+            "nazwa": "Zupa grochowa",
+            "opis": "Rozrzedzona zupa gotowana na grochu."
+        },
+        {
+            "nazwa": "Smażone korzenie",
+            "opis": "Korzenie smażone na resztkach tłuszczu."
+        },
+		{
+			"nazwa": "Kapusta z grochem",
+			"opis": "Kapusta gotowana z grochem, najtańsze danie dla biedoty."
+		},
+		{
+			"nazwa": "Kaszanka",
+			"opis": "Drobna kiełbasa z kaszy i krwi, podawana na zimno lub podsmażona."
+		},
+		{
+			"nazwa": "Chleb ze smalcem",
+			"opis": "Kromka chleba posmarowana tłuszczem wieprzowym, czasem z dodatkiem skwarek."
+		},
+		{
+			"nazwa": "Zupa z porów",
+			"opis": "Cienka zupa na bazie pora i wody, czasem doprawiona pieprzem."
+		},
+		{
+			"nazwa": "Placki z mąki i wody",
+			"opis": "Proste placki z mąki i wody, pieczone na rozgrzanym kamieniu."
+		},
+		{
+			"nazwa": "Krupnik na kości",
+			"opis": "Zupa z kaszy i warzyw gotowana na kości, by nadać smaku."
+		},
+		{
+			"nazwa": "Groch z kapustą",
+			"opis": "Danie z gotowanego grochu i kapusty, doprawione odrobiną tłuszczu."
+		},
+		{
+			"nazwa": "Zupa brukwiowa",
+			"opis": "Brukiew gotowana z wodą, tworząc tanią, sycącą zupę."
+		},
+		{
+			"nazwa": "Czerstwy chleb z wodą",
+			"opis": "Stary chleb namoczony w wodzie, czasem z dodatkiem soli."
+		},
+		{
+			"nazwa": "Zupa cebulowa",
+			"opis": "Gotowana cebula z wodą, odrobiną tłuszczu i solą."
+		},
+		{
+			"nazwa": "Kaszka na wodzie",
+			"opis": "Gotowana kasza na wodzie, bez dodatków."
+		},
+		{
+			"nazwa": "Ryż z mlekiem",
+			"opis": "Gotowany ryż na wodzie, czasem z dodatkiem kropli mleka."
+		},
+		{
+			"nazwa": "Pieczona brukiew",
+			"opis": "Brukiew pieczona na ogniu, tanie i łatwo dostępne danie."
+		},
+		{
+			"nazwa": "Zupa kartoflana",
+			"opis": "Wodnista zupa z kilku ziemniaków, czasem doprawiona solą."
+		},
+		{
+			"nazwa": "Placki z buraków",
+			"opis": "Buraki starte i pieczone na kamieniu, czasem z odrobiną mąki."
+		},
+		{
+			"nazwa": "Jajko na twardo",
+			"opis": "Gotowane na twardo jajko, podawane bez dodatków."
+		},
+		{
+			"nazwa": "Smalec z cebulą",
+			"opis": "Rozpuszczony tłuszcz wieprzowy z podsmażoną cebulą."
+		},
+		{
+			"nazwa": "Zupa z grochu",
+			"opis": "Gęsta zupa grochowa, czasem doprawiona majerankiem."
+		},
+		{
+			"nazwa": "Zupa na kościach",
+			"opis": "Cienka zupa gotowana na resztkach kości."
+		}
+		],
+		"zwyczajne": [
+		{
+			"nazwa": "Pieczone ziemniaki z cebulą",
+			"opis": "Ziemniaki pieczone w popiele, podawane z karmelizowaną cebulą."
+		},
+		{
+			"nazwa": "Kapusta kiszona z boczkiem",
+			"opis": "Duszone kapusta kiszona z kawałkami solonego boczku i przyprawami."
+		},
+		{
+			"nazwa": "Gulasz chłopski",
+			"opis": "Gęsty gulasz z warzywami korzeniowymi i niewielką ilością mięsa."
+		},
+		{
+			"nazwa": "Kasza jęczmienna z grzybami",
+			"opis": "Gotowana kasza jęczmienna z dodatkiem leśnych grzybów."
+		},
+		{
+			"nazwa": "Czarny chleb z masłem",
+			"opis": "Plastry ciężkiego, ciemnego chleba smarowane domowym masłem."
+		},
+		{
+			"nazwa": "Zupa cebulowa",
+			"opis": "Prosta zupa z cebuli i bulionu, doprawiona ziołami."
+		},
+		{
+			"nazwa": "Pasztet wiejski",
+			"opis": "Pasztet z resztek mięsa, przyprawiony jałowcem i pieczony w glinianej foremce."
+		},
+		{
+			"nazwa": "Kiełbasa suszona",
+			"opis": "Grubo krojona kiełbasa wędzona, podawana z kawałkiem chleba."
+		},
+		{
+			"nazwa": "Placki ziemniaczane",
+			"opis": "Smażone placki z tartego ziemniaka i mąki, podawane z kwaśną śmietaną."
+		},
+		{
+			"nazwa": "Duszone warzywa z jęczmieniem",
+			"opis": "Prosty posiłek z duszonych warzyw korzeniowych i kaszy jęczmiennej."
+		},
+		{
+			"nazwa": "Pieczona kura z ziołami",
+			"opis": "Ćwiartka kury pieczona z ziołami i solą, podawana z kawałkiem chleba."
+		},
+		{
+			"nazwa": "Zupa rybna",
+			"opis": "Prosta zupa na bazie ryb rzecznych, cebuli i przypraw."
+		},
+		{
+			"nazwa": "Kluski na parze",
+			"opis": "Delikatne kluski gotowane na parze, podawane z sosem grzybowym."
+		},
+		{
+			"nazwa": "Pieczone buraki z miodem",
+			"opis": "Buraki pieczone w piecu, delikatnie skropione miodem."
+		},
+		{
+			"nazwa": "Kaszanka z jabłkami",
+			"opis": "Smażona kaszanka podawana z kawałkami kwaśnych jabłek."
+		},
+		{
+			"nazwa": "Zupa grochowa",
+			"opis": "Gęsta zupa z grochu i warzyw, podawana z kawałkiem chleba."
+		},
+		{
+			"nazwa": "Pieczony szczupak",
+			"opis": "Ryba rzeczna pieczona w piecu, doprawiona ziołami i cytryną."
+		},
+		{
+			"nazwa": "Tarta cebulowa",
+			"opis": "Placek na cieście drożdżowym z karmelizowaną cebulą i ziołami."
+		},
+		{
+			"nazwa": "Jajecznica na boczku",
+			"opis": "Prosta jajecznica smażona na kawałkach boczku."
+		},
+		{
+			"nazwa": "Zupa z pokrzywy",
+			"opis": "Delikatna zupa z młodych liści pokrzywy, podawana z kawałkiem chleba."
+		},
+		{
+			"nazwa": "Pieczone jabłka z cynamonem",
+			"opis": "Jabłka pieczone w piecu, nadziewane miodem i posypane cynamonem."
+		},
+		{
+			"nazwa": "Kiszona rzepa z chlebem",
+			"opis": "Kiszona rzepa podawana jako przystawka z kawałkiem chleba."
+		},
+		{
+			"nazwa": "Pieczony boczek z ziemniakami",
+			"opis": "Grubo krojony boczek pieczony z ziołami, podawany z ziemniakami."
+		},
+		{
+			"nazwa": "Pasztet z zająca",
+			"opis": "Pasztet z mięsa zająca, doprawiony jałowcem i pieprzem."
+		},
+		{
+			"nazwa": "Polewka piwna",
+			"opis": "Gęsta polewka na bazie piwa, z dodatkiem chleba i przypraw."
+		},
+		{
+			"nazwa": "Omlet z ziołami",
+			"opis": "Lekki omlet smażony na maśle, z dodatkiem świeżych ziół."
+		},
+		{
+			"nazwa": "Pieczone kasztany",
+			"opis": "Kasztany pieczone w ogniu, podawane jako przekąska."
+		},
+		{
+			"nazwa": "Smalec z jabłkiem",
+			"opis": "Smalec doprawiony cebulą i jabłkiem, podawany z ciemnym chlebem."
+		},
+		{
+			"nazwa": "Zupa czosnkowa",
+			"opis": "Zupa na bazie czosnku i bulionu, podawana z grzankami."
+		},
+		{
+			"nazwa": "Chleb z sadłem",
+			"opis": "Kromki ciemnego chleba smarowane gęstym sadłem."
+		},
+		{
+			"nazwa": "Pieczona dynia",
+			"opis": "Kawałki dyni pieczone w piecu, delikatnie przyprawione cynamonem i imbirem."
+		},
+		{
+			"nazwa": "Kiełbasa jałowcowa",
+			"opis": "Suszona kiełbasa z jałowcem, podawana z kawałkiem chleba."
+		},
+		{
+			"nazwa": "Barszcz biały",
+			"opis": "Kwaszona zupa na bazie mąki i bulionu, podawana z ziemniakami."
+		},
+		{
+			"nazwa": "Duszone kapuśniaczki",
+			"opis": "Kapuśniaczki z ciasta drożdżowego, duszone w glinianym garnku."
+		},
+		{
+			"nazwa": "Zupa ryżowa",
+			"opis": "Lekka zupa na bazie ryżu i warzyw, delikatnie przyprawiona."
+		},
+		{
+			"nazwa": "Pieczony królik",
+			"opis": "Mięso z królika pieczone z rozmarynem i czosnkiem."
+		},
+		{
+			"nazwa": "Placek jęczmienny",
+			"opis": "Placek pieczony z mąki jęczmiennej, podawany z masłem lub miodem."
+		},
+		{
+			"nazwa": "Zupa buraczana",
+			"opis": "Ciepła zupa z buraków, podawana z kwaśną śmietaną."
+		},
+		{
+			"nazwa": "Pasta rybna z chlebem",
+			"opis": "Pasta z suszonej ryby, podawana na kromkach ciemnego chleba."
+		},
+		{
+			"nazwa": "Kiszony ogórek z miodem",
+			"opis": "Tradycyjny ogórek kiszony, podawany z delikatnym musem miodowym."
+		},
+		{
+			"nazwa": "Zupa z soczewicy",
+			"opis": "Gęsta zupa z czerwonej soczewicy, doprawiona kminkiem i czosnkiem."
+		},
+		{
+			"nazwa": "Smażone jajka z cebulą",
+			"opis": "Jajka smażone na maśle, podane z karmelizowaną cebulą."
+		},
+		{
+			"nazwa": "Placek z kapustą",
+			"opis": "Placek z ciasta drożdżowego nadziewany kiszoną kapustą."
+		},
+		{
+			"nazwa": "Kaszanka z cebulą",
+			"opis": "Podsmażana kaszanka z cebulą i kawałkami świeżego chleba."
+		},
+		{
+			"nazwa": "Kluski śląskie z sosem pieczarkowym",
+			"opis": "Kluski ziemniaczane polane gęstym sosem pieczarkowym."
+		},
+		{
+			"nazwa": "Cebularz z masłem",
+			"opis": "Ciepły placek z cebulą, smarowany świeżym masłem."
+		},
+		{
+			"nazwa": "Kurczak pieczony z rozmarynem",
+			"opis": "Kawałki kurczaka pieczone z dodatkiem rozmarynu i czosnku."
+		},
+		{
+			"nazwa": "Kiszona rzodkiew",
+			"opis": "Tradycyjnie kiszona rzodkiew, podawana jako przystawka."
+		},
+		{
+			"nazwa": "Barszcz czerwony z ziemniakami",
+			"opis": "Delikatny barszcz czerwony podawany z gotowanymi ziemniakami."
+		},
+		{
+			"nazwa": "Chleb razowy z twarogiem",
+			"opis": "Ciemny chleb z grubą warstwą świeżego twarogu, posypany solą."
+		},
+		{
+			"nazwa": "Smażony szczupak",
+			"opis": "Filet ze szczupaka smażony na maśle z dodatkiem ziół."
+		},
+		{
+			"nazwa": "Polewka mleczna",
+			"opis": "Polewka na bazie mleka i jaj, doprawiona gałką muszkatołową."
+		},
+		{
+			"nazwa": "Żur na zakwasie",
+			"opis": "Kwaśna zupa z mąki żytniej, podawana z kawałkiem kiełbasy."
+		},
+		{
+			"nazwa": "Kiełbasa pieczona w cieście",
+			"opis": "Kiełbasa owinięta ciastem drożdżowym i pieczona w piecu."
+		},
+		{
+			"nazwa": "Pasztet z drobiu",
+			"opis": "Kremowy pasztet z mięsa drobiowego, podawany z kromką chleba."
+		},
+		{
+			"nazwa": "Zupa koperkowa",
+			"opis": "Delikatna zupa na bazie koperku i śmietany."
+		},
+		{
+			"nazwa": "Tarta gruszkowa",
+			"opis": "Kruche ciasto wypełnione duszonymi gruszkami i cynamonem."
+		},
+		{
+			"nazwa": "Zupa z brukwi",
+			"opis": "Prosta zupa na bazie brukwi, ziemniaków i cebuli."
+		},
+		{
+			"nazwa": "Pieczone pieczarki",
+			"opis": "Pieczarki faszerowane serem i ziołami, zapiekane w piecu."
+		},
+		{
+			"nazwa": "Rosół z kury",
+			"opis": "Tradycyjny bulion drobiowy z kawałkami mięsa i warzywami."
+		},
+		{
+			"nazwa": "Sałatka z kiszonej kapusty",
+			"opis": "Sałatka z kapusty kiszonej, cebuli i jabłek."
+		},
+		{
+			"nazwa": "Pieczona gęś z jabłkami",
+			"opis": "Kawałki gęsi pieczone z jabłkami i majerankiem."
+		},
+		{
+			"nazwa": "Kaszanka na gorąco",
+			"opis": "Smażona kaszanka podawana z puree ziemniaczanym."
+		},
+		{
+			"nazwa": "Placek owsiany",
+			"opis": "Delikatny placek z płatków owsianych, podawany z masłem."
+		},
+		{
+			"nazwa": "Kluski ziemniaczane",
+			"opis": "Proste kluski ziemniaczane podawane z sosem mięsnym."
+		},
+		{
+			"nazwa": "Sos jabłkowy z imbirem",
+			"opis": "Delikatny sos jabłkowy, doprawiony świeżym imbirem."
+		},
+		{
+			"nazwa": "Bigos zwyczajny",
+			"opis": "Kapusta kiszona gotowana z mięsem i suszonymi grzybami."
+		},
+		{
+			"nazwa": "Placek drożdżowy z makiem",
+			"opis": "Słodki placek drożdżowy posypany makiem."
+		},
+		{
+			"nazwa": "Smażony dorsz",
+			"opis": "Filet z dorsza smażony na maśle z przyprawami."
+		},
+		{
+			"nazwa": "Kotlety jaglane",
+			"opis": "Kotlety z kaszy jaglanej, smażone na złoty kolor."
+		},
+		{
+			"nazwa": "Polewka z dzikich jagód",
+			"opis": "Słodko-kwaśna polewka z jagód leśnych, podawana na ciepło."
+		},
+		{
+			"nazwa": "Pieczeń wołowa",
+			"opis": "Mięso wołowe pieczone w piecu z dodatkiem czosnku i ziół."
+		},
+		{
+			"nazwa": "Karp w galarecie",
+			"opis": "Filety z karpia w delikatnej galarecie rybnej."
+		},
+		{
+			"nazwa": "Zupa chrzanowa",
+			"opis": "Ostra zupa na bazie chrzanu, podawana z ziemniakami."
+		},
+		{
+			"nazwa": "Pasta z wątróbki",
+			"opis": "Kremowa pasta z wątróbki drobiowej, podawana z chlebem."
+		},
+		{
+			"nazwa": "Pieczone gruszki z miodem",
+			"opis": "Gruszki pieczone w piecu, polewane miodem przed podaniem."
+		},
+		{
+			"nazwa": "Grochówka z wędzonką",
+			"opis": "Gęsta grochówka z kawałkami wędzonki i marchewki."
+		},
+		{
+			"nazwa": "Pierogi z serem",
+			"opis": "Tradycyjne pierogi nadziewane białym serem, podawane z masłem."
+		},
+		{
+			"nazwa": "Chleb pszenno-żytni",
+			"opis": "Ciężki, wilgotny chleb pieczony na zakwasie."
+		}
+		],
+		"bogate": [
+		{
+			"nazwa": "Pieczona perliczka w sosie borowikowym",
+			"opis": "Soczysta perliczka pieczona z ziołami, podawana z gęstym sosem z borowików."
+		},
+		{
+			"nazwa": "Suflet serowy z truflami",
+			"opis": "Delikatny suflet z najlepszych serów, doprawiony startymi truflami."
+		},
+		{
+			"nazwa": "Zupa żółwiowa z szafranem",
+			"opis": "Ekskluzywna zupa z żółwia, doprawiona szafranem i świeżymi ziołami."
+		},
+		{
+			"nazwa": "Filet z dzika w czerwonym winie",
+			"opis": "Kawałek dziczyzny marynowanej w czerwonym winie, pieczony na ogniu."
+		},
+		{
+			"nazwa": "Pasztet z wątróbki gęsiej",
+			"opis": "Kremowy pasztet z foie gras, podawany na grzance z figowym dżemem."
+		},
+		{
+			"nazwa": "Homar w sosie maślanym",
+			"opis": "Świeży homar w kremowym sosie maślanym z dodatkiem białego wina."
+		},
+		{
+			"nazwa": "Pieczony łosoś w cieście",
+			"opis": "Filet z łososia zapiekany w cieście francuskim z dodatkiem szpinaku."
+		},
+		{
+			"nazwa": "Placki ziemniaczane z kawiorem",
+			"opis": "Złociste placki ziemniaczane, podawane z kwaśną śmietaną i czarnym kawiorem."
+		},
+		{
+			"nazwa": "Polędwica wołowa Wellington",
+			"opis": "Polędwica wołowa otulona grzybami i ciastem francuskim, pieczona do perfekcji."
+		},
+		{
+			"nazwa": "Sałatka z buraków i sera koziego",
+			"opis": "Delikatne plastry buraka z kremowym serem kozim, polane miodowym winegretem."
+		},
+		{
+			"nazwa": "Ostrygi z cytryną",
+			"opis": "Świeże ostrygi podawane na lodzie z plasterkami cytryny."
+		},
+		{
+			"nazwa": "Dziczyzna w jagodowym sosie",
+			"opis": "Pieczona dziczyzna podawana z sosem jagodowym i puree ziemniaczanym."
+		},
+		{
+			"nazwa": "Krem dyniowy z pestkami dyni",
+			"opis": "Gęsty krem z dyni, doprawiony gałką muszkatołową i prażonymi pestkami."
+		},
+		{
+			"nazwa": "Pieczone przepiórki z miodem i tymiankiem",
+			"opis": "Soczyste przepiórki glazurowane miodem i przyprawami."
+		},
+		{
+			"nazwa": "Ślimaki w maśle czosnkowym",
+			"opis": "Delikatne ślimaki duszone w aromatycznym maśle z czosnkiem i pietruszką."
+		},
+		{
+			"nazwa": "Krem z białych szparagów",
+			"opis": "Jedwabisty krem z białych szparagów, podawany z grzankami."
+		},
+		{
+			"nazwa": "Jesiotr z migdałami",
+			"opis": "Grillowany jesiotr podawany z prażonymi płatkami migdałów i cytryną."
+		},
+		{
+			"nazwa": "Sałatka z owocami morza",
+			"opis": "Lekka sałatka z krewetkami, małżami i ośmiorniczkami, polana cytrusowym dressingiem."
+		},
+		{
+			"nazwa": "Kurczak po cesarsku",
+			"opis": "Pieczony kurczak w bogatym sosie maślano-śmietanowym z białym winem."
+		},
+		{
+			"nazwa": "Golonka cielęca w piwie",
+			"opis": "Duszona golonka cielęca w aromatycznym sosie na bazie piwa i miodu."
+		},
+		{
+			"nazwa": "Zupa cebulowa z grzankami",
+			"opis": "Aromatyczna zupa cebulowa zapiekana z grzanką i serem gruyère."
+		},
+		{
+			"nazwa": "Krewetki królewskie w tempurze",
+			"opis": "Chrupiące krewetki w delikatnej tempurze, podawane z sosem cytrynowym."
+		},
+		{
+			"nazwa": "Pstrąg w sosie z kopru",
+			"opis": "Pieczony pstrąg podawany z sosem koperkowym i młodymi ziemniakami."
+		},
+		{
+			"nazwa": "Pieczona jagnięcina z rozmarynem",
+			"opis": "Jagnięcina marynowana w rozmarynie i czosnku, pieczona do miękkości."
+		},
+		{
+			"nazwa": "Ciasto migdałowe z lukrem",
+			"opis": "Wilgotne ciasto migdałowe, polane delikatnym lukrem cytrynowym."
+		},
+		{
+			"nazwa": "Pieczone buraki z kozim serem",
+			"opis": "Buraki pieczone z miodem, podawane z kremowym serem kozim."
+		},
+		{
+			"nazwa": "Filet z jelenia w sosie żurawinowym",
+			"opis": "Dziczyzna w wykwintnym sosie z żurawin i czerwonego wina."
+		},
+		{
+			"nazwa": "Tarta z jabłkami i cynamonem",
+			"opis": "Kruche ciasto z nadzieniem z karmelizowanych jabłek i cynamonu."
+		},
+		{
+			"nazwa": "Risotto z grzybami leśnymi",
+			"opis": "Kremowe risotto z dodatkiem grzybów i świeżych ziół."
+		},
+		{
+			"nazwa": "Sernik z polewą z białej czekolady",
+			"opis": "Delikatny sernik na kruchym spodzie, polany białą czekoladą."
+		},
+		{
+			"nazwa": "Pieczony indyk z kasztanami",
+			"opis": "Kawałki indyka pieczone z dodatkiem masy z kasztanów i masła."
+		},
+		{
+			"nazwa": "Zupa z raków",
+			"opis": "Aromatyczna zupa z raków, z dodatkiem warzyw i śmietany."
+		},
+		{
+			"nazwa": "Polędwiczki wieprzowe w sosie śliwkowym",
+			"opis": "Delikatne polędwiczki wieprzowe w gęstym, słodko-kwaśnym sosie ze śliwek."
+		},
+		{
+			"nazwa": "Pieczony bażant z żurawiną",
+			"opis": "Bażant pieczony w piecu, podawany z żurawiną i młodymi ziemniakami."
+		},
+		{
+			"nazwa": "Tarta cytrynowa z bezą",
+			"opis": "Kruche ciasto wypełnione kremem cytrynowym, udekorowane słodką bezą."
+		},
+		{
+			"nazwa": "Wędzony łosoś z chrzanem",
+			"opis": "Plastry wędzonego łososia podawane z kremem chrzanowym i koperkiem."
+		},
+		{
+			"nazwa": "Zapiekanka ziemniaczana z grzybami",
+			"opis": "Kremowe ziemniaki zapiekane z dodatkiem śmietany i borowików."
+		},
+		{
+			"nazwa": "Gulasz z sarny",
+			"opis": "Delikatny gulasz z sarny duszony w warzywach i czerwonym winie."
+		},
+		{
+			"nazwa": "Sernik wiedeński",
+			"opis": "Aksamitny sernik z lekką, maślaną strukturą, udekorowany skórką pomarańczową."
+		},
+		{
+			"nazwa": "Pieczony dzik w miodowej glazurze",
+			"opis": "Mięso z dzika pieczone w piecu, oblane słodkim miodem."
+		}
+	]
+}
